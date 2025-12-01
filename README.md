@@ -1,19 +1,19 @@
 # My Repositories
 
 ## Featured Projects  
-- [**JUBILANT-POTATO**](https://github.com/414962002/JUBILANT-POTATO) - DNS and Google Services Access Problem Solution Guide  
+- [**JUBILANT-POTATO**](https://github.com/414962002/JUBILANT-POTATO) - DNS AND GOOGLE SERVICES ACCESS PROBLEM SOLUTION GUIDE  
 &nbsp;  
-- [**BATTLE-OF-HASTINGS**](https://github.com/414962002/BATTLE-OF-HASTINGS) - Protected infrastructure with real-time alerts  
+- [**BATTLE-OF-HASTINGS**](https://github.com/414962002/BATTLE-OF-HASTINGS) - PROTECTED INFRASTRUCTURE WITH REAL-TIME ALERTS  
 &nbsp;  
-- [**FIESTAS-PATRIAS**](https://github.com/414962002/FIESTAS-PATRIAS) - it can format news for a digital detox. just let this bot do its thing  
+- [**FIESTAS-PATRIAS**](https://github.com/414962002/FIESTAS-PATRIAS) - IT CAN FORMAT NEWS FOR A DIGITAL DETOX. JUST LET THIS BOT DO ITS THING  
 &nbsp;  
-- [**F.R.FX**](https://github.com/414962002/F.R.FX) - firefox optimization  
+- [**F.R.FX**](https://github.com/414962002/F.R.FX) - FIREFOX OPTIMIZATION  
 &nbsp;  
-- [**ARCH-INSTALLING**](https://github.com/414962002/ARCH-INSTALLING) - arch-installing  
+- [**ARCH-INSTALLING**](https://github.com/414962002/ARCH-INSTALLING) - ARCH-INSTALLING  
 &nbsp;  
-- [**DNS-PRES-BOT**](https://github.com/414962002/DNS-PRES-BOT) - Connecting a Telegram bot to a Google Sheet can be done using Google Apps Script  
+- [**DNS-PRES-BOT**](https://github.com/414962002/DNS-PRES-BOT) - CONNECTING A TELEGRAM BOT TO A GOOGLE SHEET CAN BE DONE USING GOOGLE APPS SCRIPT  
 &nbsp;  
-- [**GIT**](https://github.com/414962002/GIT) - part one - creation and cloning, part two - two accounts on the same computer  
+- [**GIT**](https://github.com/414962002/GIT) - PART ONE - CREATION AND CLONING, PART TWO - TWO ACCOUNTS ON THE SAME COMPUTER  
 &nbsp;  
 ## Technology Stack  
 &nbsp;  
