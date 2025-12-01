@@ -1,11 +1,8 @@
-# Repositories
+# My Repositories:
 
   
 &nbsp;  
-## bots:  
-  
-&nbsp;  
-  
+bots:  
 [**FIESTAS-PATRIAS**](https://github.com/414962002/FIESTAS-PATRIAS) - MULTI-SOURCE NEWS AGGREGATION BOT WITH RSS/HTML PARSING AND GOOGLE SHEETS BACKUP  
 &nbsp;  
 ```
@@ -29,14 +26,12 @@ Cloud & DevOps: Google Cloud Platform, Chrome Extensions
 Development Tools: Google Apps Script Editor, Google Apps Script GitHub Assistant, Telegram BotFather
 Learning: Bot Development, Data Visualization, Chart Generation, Callback Query Handling
 ```   
+&nbsp;  
 
 &nbsp;  
 &nbsp;  
 
 ## instructions:  
-  
-&nbsp;  
-  
 - [**JUBILANT-POTATO**](https://github.com/414962002/JUBILANT-POTATO) - COMPREHENSIVE DNS TROUBLESHOOTING GUIDE WITH ROUTER CONFIGURATION AND ISP BYPASS SOLUTIONS  
 &nbsp;  
 ```
@@ -51,6 +46,18 @@ Security: ISP Bypass, Content Filtering Bypass
 ```  
 &nbsp;  
 - [**BATTLE-OF-HASTINGS**](https://github.com/414962002/BATTLE-OF-HASTINGS) - PROTECTED INFRASTRUCTURE WITH REAL-TIME ALERTS  
+&nbsp;  
+```
+Infrastructure: VPS, Debian 12, Docker, Docker Compose
+VPN: WireGuard, WireGuard Easy
+Web Server: Nginx, Reverse Proxy, SSL/TLS, Let's Encrypt
+Security: UFW Firewall, Fail2Ban, SSH Hardening, HMAC-SHA256
+Monitoring: Google Apps Script, Google Sheets, Telegram Bot API
+Networking: DuckDNS, Dynamic DNS, Port Management
+Scripting: Bash, PowerShell, JavaScript, Cron Jobs
+Encryption: OpenSSL, Certificate Management
+APIs: Telegram Bot API, Google Sheets API, Provider APIs
+```  
 &nbsp;  
 
 - [**F.R.FX**](https://github.com/414962002/F.R.FX) - FIREFOX OPTIMIZATION  
