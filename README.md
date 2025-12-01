@@ -1,19 +1,54 @@
-# My Repositories:
+# Repositories
 
   
 &nbsp;  
 ## bots:  
-- [**FIESTAS-PATRIAS**](https://github.com/414962002/FIESTAS-PATRIAS)  
-IT CAN FORMAT NEWS FOR A DIGITAL DETOX    
+  
 &nbsp;  
-- [**DNS-PRES-BOT**](https://github.com/414962002/DNS-PRES-BOT)  
-CONNECTING A TELEGRAM BOT TO A GOOGLE SHEET CAN BE DONE USING GOOGLE APPS SCRIPT
+  
+[**FIESTAS-PATRIAS**](https://github.com/414962002/FIESTAS-PATRIAS) - MULTI-SOURCE NEWS AGGREGATION BOT WITH RSS/HTML PARSING AND GOOGLE SHEETS BACKUP  
+&nbsp;  
+```
+Programming Languages: JavaScript
+Backend: Google Apps Script, Node.js
+Databases: Google Sheets, Google Apps Script Properties
+Cloud & DevOps: Google Cloud Platform, Google Apps Script
+Development Tools: Google Apps Script Editor, Telegram Bot API, RSS/XML Parsing
+Learning: Web Scraping, HTML/XML Parsing, Telegram Bot Development, Google Sheets API
+```  
+&nbsp;
+&nbsp;
+  
+[**DNS-PRES-BOT**](https://github.com/414962002/DNS-PRES-BOT) - GREEN ECONOMY DATA TRACKING BOT WITH CHART VISUALIZATION AND GOOGLE SHEETS INTEGRATION  
+&nbsp;  
+```
+Programming Languages: JavaScript
+Backend: Google Apps Script, Telegram Bot API
+Databases: Google Sheets
+Cloud & DevOps: Google Cloud Platform, Chrome Extensions
+Development Tools: Google Apps Script Editor, Google Apps Script GitHub Assistant, Telegram BotFather
+Learning: Bot Development, Data Visualization, Chart Generation, Callback Query Handling
+```   
 
 &nbsp;  
 &nbsp;  
 
 ## instructions:  
-- [**JUBILANT-POTATO**](https://github.com/414962002/JUBILANT-POTATO) - DNS AND GOOGLE SERVICES ACCESS PROBLEM SOLUTION GUIDE  
+  
+&nbsp;  
+  
+- [**JUBILANT-POTATO**](https://github.com/414962002/JUBILANT-POTATO) - COMPREHENSIVE DNS TROUBLESHOOTING GUIDE WITH ROUTER CONFIGURATION AND ISP BYPASS SOLUTIONS  
+&nbsp;  
+```
+Networking: DNS, DNS-over-HTTPS, DNS-over-TLS, IPv4, Static Routes
+Hardware: Keenetic Router, Network Configuration
+Protocols: HTTPS, SSL/TLS, TCP/IP
+Operating Systems: Windows, PowerShell
+Browsers: Chrome, Firefox
+DNS Providers: Cloudflare (1.1.1.1), Google DNS (8.8.8.8)
+Tools: nslookup, ping, Test-NetConnection
+Security: ISP Bypass, Content Filtering Bypass
+```  
 &nbsp;  
 - [**BATTLE-OF-HASTINGS**](https://github.com/414962002/BATTLE-OF-HASTINGS) - PROTECTED INFRASTRUCTURE WITH REAL-TIME ALERTS  
 &nbsp;  
@@ -25,32 +60,7 @@ CONNECTING A TELEGRAM BOT TO A GOOGLE SHEET CAN BE DONE USING GOOGLE APPS SCRIPT
 
 - [**GIT**](https://github.com/414962002/GIT) - PART ONE - CREATION AND CLONING, PART TWO - TWO ACCOUNTS ON THE SAME COMPUTER  
 &nbsp;  
-## Technology Stack  
-&nbsp;  
-### Programming Languages  
-- JavaScript/TypeScript  
-&nbsp;  
-### Backend Technologies  
-- Node.js  
-&nbsp;  
-### Databases  
-- Google  
-&nbsp;  
-### Cloud & DevOps
-- AWS (EC2, S3, Lambda, RDS)
-- Docker  
-&nbsp;  
-### Development Tools  
-- Git/GitHub
-- VS Code
-- Postman  
-&nbsp;  
-### Learning
-- Machine Learning with TensorFlow
-- Microservices Architecture
-- Cloud-Native Development
-- WebAssembly  
-&nbsp;  
+
 
 
 
