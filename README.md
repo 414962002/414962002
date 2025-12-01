@@ -62,10 +62,37 @@ APIs: Telegram Bot API, Google Sheets API, Provider APIs
 
 - [**F.R.FX**](https://github.com/414962002/F.R.FX) - FIREFOX OPTIMIZATION  
 &nbsp;  
+```
+Browser: Firefox
+Configuration: about:config, user.js
+Performance: Memory Management, Cache Optimization
+Security: Privacy Settings, Tracking Protection
+Extensions: Browser Add-ons, User Scripts
+Customization: CSS, userChrome.css, userContent.css
+```  
+&nbsp;  
 - [**ARCH-INSTALLING**](https://github.com/414962002/ARCH-INSTALLING) - ARCH-INSTALLING  
+&nbsp;  
+```
+Operating System: Arch Linux
+Installation: Live ISO, Partitioning, Base System
+Bootloader: GRUB, systemd-boot
+Package Management: pacman, AUR
+Desktop Environment: GNOME, KDE, i3wm
+System Configuration: systemd, NetworkManager
+```  
 &nbsp;  
 
 - [**GIT**](https://github.com/414962002/GIT) - PART ONE - CREATION AND CLONING, PART TWO - TWO ACCOUNTS ON THE SAME COMPUTER  
+&nbsp;  
+```
+Version Control: Git, GitHub
+Authentication: SSH Keys, Personal Access Tokens
+Configuration: .gitconfig, Multiple Accounts
+Commands: clone, commit, push, pull, branch, merge
+Workflow: Repository Management, Branch Strategy
+Security: GPG Signing, Credential Management
+```  
 &nbsp;  
 
 
