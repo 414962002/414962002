@@ -60,7 +60,8 @@ APIs: Telegram Bot API, Google Sheets API, Provider APIs
 ```  
 &nbsp;  
 
-- [**F.R.FX**](https://github.com/414962002/F.R.FX) - FIREFOX OPTIMIZATION  
+- [**F.R.FX**](https://github.com/414962002/firefox) -
+FIREFOX OPTIMIZATION  
 &nbsp;  
 ```
 Browser: Firefox
@@ -71,27 +72,32 @@ Extensions: Browser Add-ons, User Scripts
 Customization: CSS, userChrome.css, userContent.css
 ```  
 &nbsp;  
-- [**ARCH-INSTALLING**](https://github.com/414962002/ARCH-INSTALLING) - ARCH-INSTALLING  
+- [**ARCH-INSTALLING**](https://github.com/414962002/ARCH-INSTALLING)  
+STEP-BY-STEP ARCH LINUX INSTALLATION GUIDE WITH PARTITIONING AND SYSTEM SETUP  
 &nbsp;  
 ```
-Operating System: Arch Linux
-Installation: Live ISO, Partitioning, Base System
-Bootloader: GRUB, systemd-boot
-Package Management: pacman, AUR
-Desktop Environment: GNOME, KDE, i3wm
-System Configuration: systemd, NetworkManager
+Operating System: Arch Linux Live ISO
+Partitioning: fdisk, GPT, EFI System Partition
+File Systems: FAT32 (boot), ext4 (root)
+Packages: base, base-devel, linux, linux-firmware
+Bootloader: GRUB, EFI Boot Manager
+Network: iwctl, NetworkManager, nmcli
+Tools: pacstrap, genfstab, arch-chroot
+Configuration: hostname, users, wheel group, visudo
 ```  
 &nbsp;  
 
-- [**GIT**](https://github.com/414962002/GIT) - PART ONE - CREATION AND CLONING, PART TWO - TWO ACCOUNTS ON THE SAME COMPUTER  
+- [**GIT**](https://github.com/414962002/GIT)  
+GIT WORKFLOW GUIDE WITH SSH KEY MANAGEMENT AND MULTI-ACCOUNT CONFIGURATION  
 &nbsp;  
 ```
 Version Control: Git, GitHub
-Authentication: SSH Keys, Personal Access Tokens
-Configuration: .gitconfig, Multiple Accounts
-Commands: clone, commit, push, pull, branch, merge
-Workflow: Repository Management, Branch Strategy
-Security: GPG Signing, Credential Management
+Authentication: SSH Keys (ed25519), SSH Agent
+Configuration: .gitconfig, SSH config, Multiple Accounts
+Commands: git init, clone, add, commit, push, config
+Workflow: Creating vs Cloning, Local vs Remote
+Security: SSH Key Management, Account Switching
+Tools: Bash, SSH-Keygen, SSH-Agent, Clipboard (clip)
 ```  
 &nbsp;  
 
