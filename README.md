@@ -2,39 +2,45 @@
 
 ## Featured Projects  
 - [**JUBILANT-POTATO**](https://github.com/414962002/JUBILANT-POTATO) - DNS and Google Services Access Problem Solution Guide  
-- [**BATTLE-OF-HASTINGS**](https://github.com/414962002/BATTLE-OF-HASTINGS) - Protected infrastructure with real-time alerts  
-- [**FIESTAS-PATRIAS**](https://github.com/414962002/FIESTAS-PATRIAS) - it can format news for a digital detox. just let this bot do its thing  
+&nbsp;  
+- [**BATTLE-OF-HASTINGS**](https://github.com/414962002/BATTLE-OF-HASTINGS) - Protected infrastructure with real-time alerts
+&nbsp;  
+- [**FIESTAS-PATRIAS**](https://github.com/414962002/FIESTAS-PATRIAS) - it can format news for a digital detox. just let this bot do its thing
+&nbsp;  
 - [**F.R.FX**](https://github.com/414962002/F.R.FX) - firefox optimization
+&nbsp;  
 - [**ARCH-INSTALLING**](https://github.com/414962002/ARCH-INSTALLING) - arch-installing
-- [**DNS-PRES-BOT**](https://github.com/414962002/DNS-PRES-BOT) - Connecting a Telegram bot to a Google Sheet can be done using Google Apps Script. This allows the bot to interact with the sheet, reading and writing data to it
+&nbsp;  
+- [**DNS-PRES-BOT**](https://github.com/414962002/DNS-PRES-BOT) - Connecting a Telegram bot to a Google Sheet can be done using Google Apps Script
+&nbsp;  
 - [**GIT**](https://github.com/414962002/GIT) - part one - creation and cloning, part two - two accounts on the same computer  
 
-## Technology Stack
-
-### Programming Languages
-- JavaScript/TypeScript
-
-### Backend Technologies
-- Node.js
-
-### Databases
-- Google
-
+## Technology Stack  
+&nbsp;  
+### Programming Languages  
+- JavaScript/TypeScript  
+&nbsp;  
+### Backend Technologies  
+- Node.js  
+&nbsp;  
+### Databases  
+- Google  
+&nbsp;  
 ### Cloud & DevOps
 - AWS (EC2, S3, Lambda, RDS)
-- Docker
-
-### Development Tools
+- Docker  
+&nbsp;  
+### Development Tools  
 - Git/GitHub
 - VS Code
-- Postman
-
+- Postman  
+&nbsp;  
 ### Learning
 - Machine Learning with TensorFlow
 - Microservices Architecture
 - Cloud-Native Development
-- WebAssembly
-
+- WebAssembly  
+&nbsp;  
 
 
 
