@@ -1,8 +1,10 @@
-# My Repositories:
+# REPOSITORIES  
 
   
 &nbsp;  
-bots:  
+## bots  
+&nbsp;  
+
 [![FIESTAS-PATRIAS](https://img.shields.io/badge/FIESTAS--PATRIAS-news%20aggregation%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/FIESTAS-PATRIAS)  
 MULTI-SOURCE NEWS AGGREGATION BOT WITH RSS/HTML PARSING AND GOOGLE SHEETS BACKUP  
 &nbsp;  
@@ -29,12 +31,12 @@ Development Tools: Google Apps Script Editor, Google Apps Script GitHub Assistan
 Learning: Bot Development, Data Visualization, Chart Generation, Callback Query Handling
 ```   
 &nbsp;  
-
-&nbsp;  
 &nbsp;  
 
-## instructions:  
-- [![JUBILANT-POTATO](https://img.shields.io/badge/JUBILANT--POTATO-dns%20troubleshooting-lightblue?logo=openwrt&logoColor=white)](https://github.com/414962002/JUBILANT-POTATO)  
+## instructions  
+&nbsp;  
+
+[![JUBILANT-POTATO](https://img.shields.io/badge/JUBILANT--POTATO-dns%20troubleshooting-lightblue?logo=openwrt&logoColor=white)](https://github.com/414962002/JUBILANT-POTATO)  
 COMPREHENSIVE DNS TROUBLESHOOTING GUIDE WITH ROUTER CONFIGURATION AND ISP BYPASS SOLUTIONS  
 &nbsp;  
 ```
@@ -48,7 +50,7 @@ Tools: nslookup, ping, Test-NetConnection
 Security: ISP Bypass, Content Filtering Bypass
 ```  
 &nbsp;  
-- [![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightblue?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
+[![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightblue?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
 PROTECTED INFRASTRUCTURE WITH REAL-TIME ALERTS  
 &nbsp;  
 ```
