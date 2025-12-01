@@ -1,9 +1,8 @@
-# My Repositories
+# My Repositories:
 
-## Featured Projects  
   
 &nbsp;  
-bots:  
+## bots:  
 - [**FIESTAS-PATRIAS**](https://github.com/414962002/FIESTAS-PATRIAS) - IT CAN FORMAT NEWS FOR A DIGITAL DETOX. JUST LET THIS BOT DO ITS THING  
 &nbsp;  
 - [**DNS-PRES-BOT**](https://github.com/414962002/DNS-PRES-BOT) - CONNECTING A TELEGRAM BOT TO A GOOGLE SHEET CAN BE DONE USING GOOGLE APPS SCRIPT
@@ -11,7 +10,7 @@ bots:
 &nbsp;  
 &nbsp;  
 
-instructions:  
+## instructions:  
 - [**JUBILANT-POTATO**](https://github.com/414962002/JUBILANT-POTATO) - DNS AND GOOGLE SERVICES ACCESS PROBLEM SOLUTION GUIDE  
 &nbsp;  
 - [**BATTLE-OF-HASTINGS**](https://github.com/414962002/BATTLE-OF-HASTINGS) - PROTECTED INFRASTRUCTURE WITH REAL-TIME ALERTS  
