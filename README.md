@@ -5,18 +5,19 @@ bot
 01. FIESTAS-PATRIAS - news aggregation bot
 02. CRISPY-FIESTA - pinterest media downloader bot
 03. BATTLE-OF-HASTINGS-BOT - part of the battle of hastings repo
+04. UPGRADED-GUACAMOLE - price monitoring bot
 
 bot / archive
-04. DNS-PRES-BOT - data tracking bot
+05. DNS-PRES-BOT - data tracking bot
 
 network
-05. BATTLE-OF-HASTINGS - main repo with infrastructure monitoring and security
+06. BATTLE-OF-HASTINGS - main repo with infrastructure monitoring and security
 
 instruction
-06. JUBILANT-POTATO - DNS troubleshooting guide
-07. F.R.FX - Firefox customization
-08. ARCH-INSTALLING - Linux installation guide
-09. GIT - Git workflow guide
+07. JUBILANT-POTATO - DNS troubleshooting guide
+08. F.R.FX - Firefox customization
+09. ARCH-INSTALLING - Linux installation guide
+10. GIT - Git workflow guide
 ```
 
 &nbsp;
@@ -64,6 +65,21 @@ Monitoring: System Metrics, Security Reports, Service Status
 Alerts: Critical Thresholds, Real-time Notifications
 Data Storage: Google Sheets Integration
 Security: HMAC-SHA256 Signing, Failed Login Tracking
+```
+
+&nbsp;
+
+[![UPGRADED-GUACAMOLE](https://img.shields.io/badge/UPGRADED--GUACAMOLE-price%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/upgraded-guacamole)  
+XIAOMI PHONE PRICE MONITORING BOT WITH AUTOMATED TRACKING AND CHANGE ALERTS
+
+```
+Programming Languages: JavaScript
+Platform: Google Apps Script
+API: Telegram Bot API, Google Sheets API
+Web Scraping: UrlFetchApp, Browser Headers, Anti-Detection
+Monitoring: Price Tracking, Stock Status, Change Detection
+Data Storage: Google Sheets with Color Coding
+Notifications: Real-time Price Change Alerts
 ```
 
 &nbsp;
