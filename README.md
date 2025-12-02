@@ -2,23 +2,26 @@
 
 ```
 bot
-1. FIESTAS-PATRIAS - news aggregation bot
-2. DNS-PRES-BOT - data tracking bot
-3. CRISPY-FIESTA - pinterest media downloader bot
+01. FIESTAS-PATRIAS - news aggregation bot
+02. CRISPY-FIESTA - pinterest media downloader bot
+03. BATTLE-OF-HASTINGS-BOT - part of the battle of hastings repo
+
+bot / archive
+04. DNS-PRES-BOT - data tracking bot
 
 network
-3. JUBILANT-POTATO - DNS troubleshooting guide
-4. BATTLE-OF-HASTINGS - Infrastructure monitoring
+05. BATTLE-OF-HASTINGS - main repo with infrastructure monitoring and security
 
 instruction
-5. F.R.FX - Firefox customization
-6. ARCH-INSTALLING - Linux installation guide
-7. GIT - Git workflow guide
+06. JUBILANT-POTATO - DNS troubleshooting guide
+07. F.R.FX - Firefox customization
+08. ARCH-INSTALLING - Linux installation guide
+09. GIT - Git workflow guide
 ```
 
 &nbsp;
 
-## bots
+## bot
 
 &nbsp;
 
@@ -36,6 +39,40 @@ Learning: Web Scraping, HTML/XML Parsing, Telegram Bot Development, Google Sheet
 
 &nbsp;
 
+[![CRISPY-FIESTA](https://img.shields.io/badge/CRISPY--FIESTA-pinterest%20media%20downloader-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/crispy-fiesta)  
+PINTEREST MEDIA DOWNLOADER BOT THAT EXTRACTS PHOTOS, VIDEOS AND GIFS FROM PINTEREST LINKS
+
+```
+Programming Languages: JavaScript
+Platform: Google Apps Script
+API: Telegram Bot API
+Web Scraping: UrlFetchApp with User-Agent spoofing
+Media Types: Photos, Videos, Animations
+Error Handling: Multiple fallback extraction methods
+```
+
+&nbsp;
+
+[![BATTLE-OF-HASTINGS-BOT](https://img.shields.io/badge/BATTLE--OF--HASTINGS--BOT-infrastructure%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
+INFRASTRUCTURE MONITORING BOT WITH REAL-TIME ALERTS AND SECURITY REPORTING
+
+```
+Programming Languages: JavaScript
+Platform: Google Apps Script
+API: Telegram Bot API, Google Sheets API
+Monitoring: System Metrics, Security Reports, Service Status
+Alerts: Critical Thresholds, Real-time Notifications
+Data Storage: Google Sheets Integration
+Security: HMAC-SHA256 Signing, Failed Login Tracking
+```
+
+&nbsp;
+&nbsp;
+
+## bot / archive
+
+&nbsp;
+
 [![DNS-PRES-BOT](https://img.shields.io/badge/DNS--PRES--BOT-data%20tracking%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/DNS-PRES-BOT)  
 GREEN ECONOMY DATA TRACKING BOT WITH CHART VISUALIZATION AND GOOGLE SHEETS INTEGRATION
 
@@ -49,17 +86,25 @@ Learning: Bot Development, Data Visualization, Chart Generation, Callback Query 
 ```
 
 &nbsp;
+&nbsp;
 
-[![CRISPY-FIESTA](https://img.shields.io/badge/CRISPY--FIESTA-pinterest%20media%20downloader-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/crispy-fiesta)  
-PINTEREST MEDIA DOWNLOADER BOT THAT EXTRACTS PHOTOS, VIDEOS AND GIFS FROM PINTEREST LINKS
+## network
+
+&nbsp;
+
+[![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightblue?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
+PROTECTED INFRASTRUCTURE WITH REAL-TIME ALERTS
 
 ```
-Programming Languages: JavaScript
-Platform: Google Apps Script
-API: Telegram Bot API
-Web Scraping: UrlFetchApp with User-Agent spoofing
-Media Types: Photos, Videos, Animations
-Error Handling: Multiple fallback extraction methods
+Infrastructure: VPS, Debian 12, Docker, Docker Compose
+VPN: WireGuard, WireGuard Easy
+Web Server: Nginx, Reverse Proxy, SSL/TLS, Let's Encrypt
+Security: UFW Firewall, Fail2Ban, SSH Hardening, HMAC-SHA256
+Monitoring: Google Apps Script, Google Sheets, Telegram Bot API
+Networking: DuckDNS, Dynamic DNS, Port Management
+Scripting: Bash, PowerShell, JavaScript, Cron Jobs
+Encryption: OpenSSL, Certificate Management
+APIs: Telegram Bot API, Google Sheets API, Provider APIs
 ```
 
 &nbsp;
@@ -81,23 +126,6 @@ Browsers: Chrome, Firefox
 DNS Providers: Cloudflare (1.1.1.1), Google DNS (8.8.8.8)
 Tools: nslookup, ping, Test-NetConnection
 Security: ISP Bypass, Content Filtering Bypass
-```
-
-&nbsp;
-
-[![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightblue?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
-PROTECTED INFRASTRUCTURE WITH REAL-TIME ALERTS
-
-```
-Infrastructure: VPS, Debian 12, Docker, Docker Compose
-VPN: WireGuard, WireGuard Easy
-Web Server: Nginx, Reverse Proxy, SSL/TLS, Let's Encrypt
-Security: UFW Firewall, Fail2Ban, SSH Hardening, HMAC-SHA256
-Monitoring: Google Apps Script, Google Sheets, Telegram Bot API
-Networking: DuckDNS, Dynamic DNS, Port Management
-Scripting: Bash, PowerShell, JavaScript, Cron Jobs
-Encryption: OpenSSL, Certificate Management
-APIs: Telegram Bot API, Google Sheets API, Provider APIs
 ```
 
 &nbsp;
