@@ -1,13 +1,31 @@
-# REPOSITORIES  
+# REPOSITORIES
 
-  
-&nbsp;  
-## bots  
-&nbsp;  
+```
+bot
+1. FIESTAS-PATRIAS - News aggregation bot
+
+archive
+2. DNS-PRES-BOT - Data tracking bot
+
+network
+3. JUBILANT-POTATO - DNS troubleshooting guide
+4. BATTLE-OF-HASTINGS - Infrastructure monitoring
+
+instruction
+5. F.R.FX - Firefox customization
+6. ARCH-INSTALLING - Linux installation guide
+7. GIT - Git workflow guide
+```
+
+&nbsp;
+
+## bots
+
+&nbsp;
 
 [![FIESTAS-PATRIAS](https://img.shields.io/badge/FIESTAS--PATRIAS-news%20aggregation%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/FIESTAS-PATRIAS)  
-MULTI-SOURCE NEWS AGGREGATION BOT WITH RSS/HTML PARSING AND GOOGLE SHEETS BACKUP  
-  
+MULTI-SOURCE NEWS AGGREGATION BOT WITH RSS/HTML PARSING AND GOOGLE SHEETS BACKUP
+
 ```
 Programming Languages: JavaScript
 Backend: Google Apps Script, Node.js
@@ -15,12 +33,13 @@ Databases: Google Sheets, Google Apps Script Properties
 Cloud & DevOps: Google Cloud Platform, Google Apps Script
 Development Tools: Google Apps Script Editor, Telegram Bot API, RSS/XML Parsing
 Learning: Web Scraping, HTML/XML Parsing, Telegram Bot Development, Google Sheets API
-```  
+```
+
 &nbsp;
-  
+
 [![DNS-PRES-BOT](https://img.shields.io/badge/DNS--PRES--BOT-data%20tracking%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/DNS-PRES-BOT)  
-GREEN ECONOMY DATA TRACKING BOT WITH CHART VISUALIZATION AND GOOGLE SHEETS INTEGRATION  
-  
+GREEN ECONOMY DATA TRACKING BOT WITH CHART VISUALIZATION AND GOOGLE SHEETS INTEGRATION
+
 ```
 Programming Languages: JavaScript
 Backend: Google Apps Script, Telegram Bot API
@@ -28,16 +47,18 @@ Databases: Google Sheets
 Cloud & DevOps: Google Cloud Platform, Chrome Extensions
 Development Tools: Google Apps Script Editor, Google Apps Script GitHub Assistant, Telegram BotFather
 Learning: Bot Development, Data Visualization, Chart Generation, Callback Query Handling
-```   
-&nbsp;  
-&nbsp;  
+```
 
-## instructions  
-&nbsp;  
+&nbsp;
+&nbsp;
+
+## instructions
+
+&nbsp;
 
 [![JUBILANT-POTATO](https://img.shields.io/badge/JUBILANT--POTATO-dns%20troubleshooting-lightblue?logo=openwrt&logoColor=white)](https://github.com/414962002/JUBILANT-POTATO)  
-COMPREHENSIVE DNS TROUBLESHOOTING GUIDE WITH ROUTER CONFIGURATION AND ISP BYPASS SOLUTIONS  
-  
+COMPREHENSIVE DNS TROUBLESHOOTING GUIDE WITH ROUTER CONFIGURATION AND ISP BYPASS SOLUTIONS
+
 ```
 Networking: DNS, DNS-over-HTTPS, DNS-over-TLS, IPv4, Static Routes
 Hardware: Keenetic Router, Network Configuration
@@ -47,12 +68,13 @@ Browsers: Chrome, Firefox
 DNS Providers: Cloudflare (1.1.1.1), Google DNS (8.8.8.8)
 Tools: nslookup, ping, Test-NetConnection
 Security: ISP Bypass, Content Filtering Bypass
-```  
-&nbsp;  
-  
+```
+
+&nbsp;
+
 [![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightblue?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
-PROTECTED INFRASTRUCTURE WITH REAL-TIME ALERTS  
-  
+PROTECTED INFRASTRUCTURE WITH REAL-TIME ALERTS
+
 ```
 Infrastructure: VPS, Debian 12, Docker, Docker Compose
 VPN: WireGuard, WireGuard Easy
@@ -63,12 +85,13 @@ Networking: DuckDNS, Dynamic DNS, Port Management
 Scripting: Bash, PowerShell, JavaScript, Cron Jobs
 Encryption: OpenSSL, Certificate Management
 APIs: Telegram Bot API, Google Sheets API, Provider APIs
-```  
-&nbsp;  
-  
+```
+
+&nbsp;
+
 [![F.R.FX](https://img.shields.io/badge/F.R.FX-firefox%20customization-lightblue?logo=firefox&logoColor=white)](https://github.com/414962002/firefox)  
-COMPREHENSIVE FIREFOX UI CUSTOMIZATION WITH CSS STYLING AND CONFIGURATION TWEAKS  
-  
+COMPREHENSIVE FIREFOX UI CUSTOMIZATION WITH CSS STYLING AND CONFIGURATION TWEAKS
+
 ```
 Browser: Firefox
 Configuration: about:config, toolkit.legacyUserProfileCustomizations.stylesheets
@@ -77,12 +100,13 @@ UI Elements: Bookmark Bar, Main Bar, Search Panel, Tabs
 Styling: Colors, Icons, Hover Effects, Progress Bars
 Features: Compact Mode, Button Hiding, Window Controls
 Assets: SVG Icons, PNG Backgrounds, GIF Animations
-```  
-&nbsp;  
-  
+```
+
+&nbsp;
+
 [![ARCH-INSTALLING](https://img.shields.io/badge/ARCH--INSTALLING-linux%20installation-lightblue?logo=archlinux&logoColor=white)](https://github.com/414962002/ARCH-INSTALLING)  
-STEP-BY-STEP ARCH LINUX INSTALLATION GUIDE WITH PARTITIONING AND SYSTEM SETUP  
-  
+STEP-BY-STEP ARCH LINUX INSTALLATION GUIDE WITH PARTITIONING AND SYSTEM SETUP
+
 ```
 Operating System: Arch Linux Live ISO
 Partitioning: fdisk, GPT, EFI System Partition
@@ -92,12 +116,13 @@ Bootloader: GRUB, EFI Boot Manager
 Network: iwctl, NetworkManager, nmcli
 Tools: pacstrap, genfstab, arch-chroot
 Configuration: hostname, users, wheel group, visudo
-```  
-&nbsp;  
-  
+```
+
+&nbsp;
+
 [![GIT](https://img.shields.io/badge/GIT-workflow%20guide-lightblue?logo=git&logoColor=white)](https://github.com/414962002/GIT)  
-GIT WORKFLOW GUIDE WITH SSH KEY MANAGEMENT AND MULTI-ACCOUNT CONFIGURATION  
-  
+GIT WORKFLOW GUIDE WITH SSH KEY MANAGEMENT AND MULTI-ACCOUNT CONFIGURATION
+
 ```
 Version Control: Git, GitHub
 Authentication: SSH Keys (ed25519), SSH Agent
@@ -106,13 +131,10 @@ Commands: git init, clone, add, commit, push, config
 Workflow: Creating vs Cloning, Local vs Remote
 Security: SSH Key Management, Account Switching
 Tools: Bash, SSH-Keygen, SSH-Agent, Clipboard (clip)
-```  
-&nbsp;   
+```
 
-
-
-
-
+&nbsp;
 
 ---
+
 I • XII • MMXXV
