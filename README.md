@@ -6,18 +6,19 @@ bot
 02. CRISPY-FIESTA - pinterest media downloader bot
 03. BATTLE-OF-HASTINGS-BOT - part of the battle of hastings repo
 04. UPGRADED-GUACAMOLE - price monitoring bot
+05. SILVER-COUSCOUS - torrent search bot
 
 bot / archive
-05. DNS-PRES-BOT - data tracking bot
+06. DNS-PRES-BOT - data tracking bot
 
 network
-06. BATTLE-OF-HASTINGS - main repo with infrastructure monitoring and security
+07. BATTLE-OF-HASTINGS - main repo with infrastructure monitoring and security
 
 instruction
-07. JUBILANT-POTATO - DNS troubleshooting guide
-08. F.R.FX - Firefox customization
-09. ARCH-INSTALLING - Linux installation guide
-10. GIT - Git workflow guide
+08. JUBILANT-POTATO - DNS troubleshooting guide
+09. F.R.FX - Firefox customization
+10. ARCH-INSTALLING - Linux installation guide
+11. GIT - Git workflow guide
 ```
 
 &nbsp;
@@ -80,6 +81,21 @@ Web Scraping: UrlFetchApp, Browser Headers, Anti-Detection
 Monitoring: Price Tracking, Stock Status, Change Detection
 Data Storage: Google Sheets with Color Coding
 Notifications: Real-time Price Change Alerts
+```
+
+&nbsp;
+
+[![SILVER-COUSCOUS](https://img.shields.io/badge/SILVER--COUSCOUS-torrent%20search%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/silver-couscous)  
+ADVANCED TORRENT SEARCH BOT WITH MODULAR ARCHITECTURE AND ENTERPRISE SECURITY
+
+```
+Programming Languages: JavaScript
+Platform: Google Apps Script
+API: Telegram Bot API, Google Sheets API
+Architecture: 12 Modular Files, 67 Functions
+Security: Token Authentication, Rate Limiting, Input Validation
+Features: HTML Parsing, Magnet Links, Quality Monitoring
+Automation: Health Checks, Automated Triggers, Error Recovery
 ```
 
 &nbsp;
