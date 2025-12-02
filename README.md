@@ -2,10 +2,9 @@
 
 ```
 bot
-1. FIESTAS-PATRIAS - News aggregation bot
-
-archive
-2. DNS-PRES-BOT - Data tracking bot
+1. FIESTAS-PATRIAS - news aggregation bot
+2. DNS-PRES-BOT - data tracking bot
+3. CRISPY-FIESTA - pinterest media downloader bot
 
 network
 3. JUBILANT-POTATO - DNS troubleshooting guide
@@ -47,6 +46,20 @@ Databases: Google Sheets
 Cloud & DevOps: Google Cloud Platform, Chrome Extensions
 Development Tools: Google Apps Script Editor, Google Apps Script GitHub Assistant, Telegram BotFather
 Learning: Bot Development, Data Visualization, Chart Generation, Callback Query Handling
+```
+
+&nbsp;
+
+[![CRISPY-FIESTA](https://img.shields.io/badge/CRISPY--FIESTA-pinterest%20media%20downloader-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/crispy-fiesta)  
+PINTEREST MEDIA DOWNLOADER BOT THAT EXTRACTS PHOTOS, VIDEOS AND GIFS FROM PINTEREST LINKS
+
+```
+Programming Languages: JavaScript
+Platform: Google Apps Script
+API: Telegram Bot API
+Web Scraping: UrlFetchApp with User-Agent spoofing
+Media Types: Photos, Videos, Animations
+Error Handling: Multiple fallback extraction methods
 ```
 
 &nbsp;
