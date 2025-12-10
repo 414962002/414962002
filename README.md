@@ -210,4 +210,4 @@ Tools: Bash, SSH-Keygen, SSH-Agent, Clipboard (clip)
 
 ---
 
-X • XII • MMXXV -- Ultima renovatio
+X • XII • MMXXV -- ULTIMA RENOVATIO
