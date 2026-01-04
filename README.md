@@ -2,24 +2,24 @@
 
 ```
 bot
-01. [FIESTAS-PATRIAS](#fiestas-patrias) - news aggregation bot
-02. [CRISPY-FIESTA](#crispy-fiesta) - pinterest media downloader bot
-03. [BATTLE-OF-HASTINGS-BOT](#battle-of-hastings-bot) - part of the battle of hastings repo
-04. [UPGRADED-GUACAMOLE](#upgraded-guacamole) - price monitoring bot
-05. [SILVER-COUSCOUS](#silver-couscous) - torrent search bot
+01. FIESTAS-PATRIAS - news aggregation bot
+02. CRISPY-FIESTA - pinterest media downloader bot
+03. BATTLE-OF-HASTINGS-BOT - part of the battle of hastings repo
+04. UPGRADED-GUACAMOLE - price monitoring bot
+05. SILVER-COUSCOUS - torrent search bot
 
 bot / archive
-06. [DNS-PRES-BOT](#dns-pres-bot) - data tracking bot
+06. DNS-PRES-BOT - data tracking bot
 
 network
-07. [BATTLE-OF-HASTINGS](#battle-of-hastings) - main repo with infrastructure monitoring and security
-08. [JUBILANT-POTATO](#jubilant-potato) - DNS troubleshooting guide
-09. [REDESIGNED-GARBANZO](#redesigned-garbanzo) - SSH SOCKS5 proxy tunnel setup
+07. BATTLE-OF-HASTINGS - main repo with infrastructure monitoring and security
+08. JUBILANT-POTATO - DNS troubleshooting guide
+09. REDESIGNED-GARBANZO - SSH SOCKS5 proxy tunnel setup
 
 instruction
-10. [F.R.FX](#frfx) - Firefox customization
-11. [ARCH-INSTALLING](#arch-installing) - Linux installation guide
-12. [GIT](#git) - Git workflow guide
+10. F.R.FX - Firefox customization
+11. ARCH-INSTALLING - Linux installation guide
+12. GIT - Git workflow guide
 ```
 
 &nbsp;
@@ -158,7 +158,7 @@ Security: ISP Bypass, Content Filtering Bypass
 
 &nbsp;
 
-[![REDESIGNED-GARBANZO](https://img.shields.io/badge/REDESIGNED--GARBANZO-ssh%20proxy%20tunnel-lightblue?logo=openssh&logoColor=white)](https://github.com/414962002/redesigned-garbanzo)
+[![REDESIGNED-GARBANZO](https://img.shields.io/badge/REDESIGNED--GARBANZO-ssh%20proxy%20tunnel-lightblue?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/redesigned-garbanzo)
 SSH SOCKS5 PROXY TUNNEL FOR FIREFOX WITH AUTO-RECONNECT AND SELECTIVE SITE ROUTING
 
 ```
