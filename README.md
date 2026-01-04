@@ -2,23 +2,24 @@
 
 ```
 bot
-01. FIESTAS-PATRIAS - news aggregation bot
-02. CRISPY-FIESTA - pinterest media downloader bot
-03. BATTLE-OF-HASTINGS-BOT - part of the battle of hastings repo
-04. UPGRADED-GUACAMOLE - price monitoring bot
-05. SILVER-COUSCOUS - torrent search bot
+01. [FIESTAS-PATRIAS](#fiestas-patrias) - news aggregation bot
+02. [CRISPY-FIESTA](#crispy-fiesta) - pinterest media downloader bot
+03. [BATTLE-OF-HASTINGS-BOT](#battle-of-hastings-bot) - part of the battle of hastings repo
+04. [UPGRADED-GUACAMOLE](#upgraded-guacamole) - price monitoring bot
+05. [SILVER-COUSCOUS](#silver-couscous) - torrent search bot
 
 bot / archive
-06. DNS-PRES-BOT - data tracking bot
+06. [DNS-PRES-BOT](#dns-pres-bot) - data tracking bot
 
 network
-07. BATTLE-OF-HASTINGS - main repo with infrastructure monitoring and security
+07. [BATTLE-OF-HASTINGS](#battle-of-hastings) - main repo with infrastructure monitoring and security
+08. [JUBILANT-POTATO](#jubilant-potato) - DNS troubleshooting guide
+09. [REDESIGNED-GARBANZO](#redesigned-garbanzo) - SSH SOCKS5 proxy tunnel setup
 
 instruction
-08. JUBILANT-POTATO - DNS troubleshooting guide
-09. F.R.FX - Firefox customization
-10. ARCH-INSTALLING - Linux installation guide
-11. GIT - Git workflow guide
+10. [F.R.FX](#frfx) - Firefox customization
+11. [ARCH-INSTALLING](#arch-installing) - Linux installation guide
+12. [GIT](#git) - Git workflow guide
 ```
 
 &nbsp;
@@ -27,7 +28,7 @@ instruction
 
 &nbsp;
 
-[![FIESTAS-PATRIAS](https://img.shields.io/badge/FIESTAS--PATRIAS-news%20aggregation%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/FIESTAS-PATRIAS)  
+[![FIESTAS-PATRIAS](https://img.shields.io/badge/FIESTAS--PATRIAS-news%20aggregation%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/FIESTAS-PATRIAS)
 MULTI-SOURCE NEWS AGGREGATION BOT WITH RSS/HTML PARSING AND GOOGLE SHEETS BACKUP
 
 ```
@@ -41,7 +42,7 @@ Learning: Web Scraping, HTML/XML Parsing, Telegram Bot Development, Google Sheet
 
 &nbsp;
 
-[![CRISPY-FIESTA](https://img.shields.io/badge/CRISPY--FIESTA-pinterest%20media%20downloader-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/crispy-fiesta)  
+[![CRISPY-FIESTA](https://img.shields.io/badge/CRISPY--FIESTA-pinterest%20media%20downloader-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/crispy-fiesta)
 PINTEREST MEDIA DOWNLOADER BOT THAT EXTRACTS PHOTOS, VIDEOS AND GIFS FROM PINTEREST LINKS
 
 ```
@@ -55,7 +56,7 @@ Error Handling: Multiple fallback extraction methods
 
 &nbsp;
 
-[![BATTLE-OF-HASTINGS-BOT](https://img.shields.io/badge/BATTLE--OF--HASTINGS--BOT-infrastructure%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
+[![BATTLE-OF-HASTINGS-BOT](https://img.shields.io/badge/BATTLE--OF--HASTINGS--BOT-infrastructure%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)
 INFRASTRUCTURE MONITORING BOT WITH REAL-TIME ALERTS AND SECURITY REPORTING
 
 ```
@@ -70,7 +71,7 @@ Security: HMAC-SHA256 Signing, Failed Login Tracking
 
 &nbsp;
 
-[![UPGRADED-GUACAMOLE](https://img.shields.io/badge/UPGRADED--GUACAMOLE-price%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/upgraded-guacamole)  
+[![UPGRADED-GUACAMOLE](https://img.shields.io/badge/UPGRADED--GUACAMOLE-price%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/upgraded-guacamole)
 XIAOMI PHONE PRICE MONITORING BOT WITH AUTOMATED TRACKING AND CHANGE ALERTS
 
 ```
@@ -85,7 +86,7 @@ Notifications: Real-time Price Change Alerts
 
 &nbsp;
 
-[![SILVER-COUSCOUS](https://img.shields.io/badge/SILVER--COUSCOUS-torrent%20search%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/silver-couscous)  
+[![SILVER-COUSCOUS](https://img.shields.io/badge/SILVER--COUSCOUS-torrent%20search%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/silver-couscous)
 ADVANCED TORRENT SEARCH BOT WITH MODULAR ARCHITECTURE AND ENTERPRISE SECURITY
 
 ```
@@ -105,7 +106,7 @@ Automation: Health Checks, Automated Triggers, Error Recovery
 
 &nbsp;
 
-[![DNS-PRES-BOT](https://img.shields.io/badge/DNS--PRES--BOT-data%20tracking%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/DNS-PRES-BOT)  
+[![DNS-PRES-BOT](https://img.shields.io/badge/DNS--PRES--BOT-data%20tracking%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/DNS-PRES-BOT)
 GREEN ECONOMY DATA TRACKING BOT WITH CHART VISUALIZATION AND GOOGLE SHEETS INTEGRATION
 
 ```
@@ -124,7 +125,7 @@ Learning: Bot Development, Data Visualization, Chart Generation, Callback Query 
 
 &nbsp;
 
-[![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightblue?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
+[![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightblue?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)
 PROTECTED INFRASTRUCTURE WITH REAL-TIME ALERTS
 
 ```
@@ -140,13 +141,8 @@ APIs: Telegram Bot API, Google Sheets API, Provider APIs
 ```
 
 &nbsp;
-&nbsp;
 
-## instructions
-
-&nbsp;
-
-[![JUBILANT-POTATO](https://img.shields.io/badge/JUBILANT--POTATO-dns%20troubleshooting-lightblue?logo=openwrt&logoColor=white)](https://github.com/414962002/JUBILANT-POTATO)  
+[![JUBILANT-POTATO](https://img.shields.io/badge/JUBILANT--POTATO-dns%20troubleshooting-lightblue?logo=openwrt&logoColor=white)](https://github.com/414962002/JUBILANT-POTATO)
 COMPREHENSIVE DNS TROUBLESHOOTING GUIDE WITH ROUTER CONFIGURATION AND ISP BYPASS SOLUTIONS
 
 ```
@@ -162,7 +158,28 @@ Security: ISP Bypass, Content Filtering Bypass
 
 &nbsp;
 
-[![F.R.FX](https://img.shields.io/badge/F.R.FX-firefox%20customization-lightblue?logo=firefox&logoColor=white)](https://github.com/414962002/firefox)  
+[![REDESIGNED-GARBANZO](https://img.shields.io/badge/REDESIGNED--GARBANZO-ssh%20proxy%20tunnel-lightblue?logo=openssh&logoColor=white)](https://github.com/414962002/redesigned-garbanzo)
+SSH SOCKS5 PROXY TUNNEL FOR FIREFOX WITH AUTO-RECONNECT AND SELECTIVE SITE ROUTING
+
+```
+Networking: SSH, SOCKS5 Proxy, Port Forwarding, TCP Tunneling
+Operating System: Windows, PowerShell, Batch Scripts
+Browser: Firefox, PAC File (Proxy Auto-Config)
+Security: SSH Key Authentication, Encrypted Tunnel
+Automation: Auto-Reconnect, Windows Startup, Scheduled Tasks
+Configuration: proxy.pac, ssh-tunnel.bat, simple-tunnel.ps1
+Server: Linux VPS, OpenSSH, UFW Firewall
+Features: Geo-Block Bypass, Selective Routing, CDN Support
+```
+
+&nbsp;
+&nbsp;
+
+## instructions
+
+&nbsp;
+
+[![F.R.FX](https://img.shields.io/badge/F.R.FX-firefox%20customization-lightblue?logo=firefox&logoColor=white)](https://github.com/414962002/firefox)
 COMPREHENSIVE FIREFOX UI CUSTOMIZATION WITH CSS STYLING AND CONFIGURATION TWEAKS
 
 ```
@@ -177,7 +194,7 @@ Assets: SVG Icons, PNG Backgrounds, GIF Animations
 
 &nbsp;
 
-[![ARCH-INSTALLING](https://img.shields.io/badge/ARCH--INSTALLING-linux%20installation-lightblue?logo=archlinux&logoColor=white)](https://github.com/414962002/ARCH-INSTALLING)  
+[![ARCH-INSTALLING](https://img.shields.io/badge/ARCH--INSTALLING-linux%20installation-lightblue?logo=archlinux&logoColor=white)](https://github.com/414962002/ARCH-INSTALLING)
 STEP-BY-STEP ARCH LINUX INSTALLATION GUIDE WITH PARTITIONING AND SYSTEM SETUP
 
 ```
@@ -193,7 +210,7 @@ Configuration: hostname, users, wheel group, visudo
 
 &nbsp;
 
-[![GIT](https://img.shields.io/badge/GIT-workflow%20guide-lightblue?logo=git&logoColor=white)](https://github.com/414962002/GIT)  
+[![GIT](https://img.shields.io/badge/GIT-workflow%20guide-lightblue?logo=git&logoColor=white)](https://github.com/414962002/GIT)
 GIT WORKFLOW GUIDE WITH SSH KEY MANAGEMENT AND MULTI-ACCOUNT CONFIGURATION
 
 ```
@@ -210,4 +227,4 @@ Tools: Bash, SSH-Keygen, SSH-Agent, Clipboard (clip)
 
 ---
 
-X • XII • MMXXV -- ULTIMA RENOVATIO
+IV • I • MMXXVI -- ULTIMA RENOVATIO
