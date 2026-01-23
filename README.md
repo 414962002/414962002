@@ -15,11 +15,12 @@ network
 07. BATTLE-OF-HASTINGS - main repo with infrastructure monitoring and security
 08. JUBILANT-POTATO - DNS troubleshooting guide
 09. REDESIGNED-GARBANZO - SSH SOCKS5 proxy tunnel setup
+10. TURBO-SNIFFLE - Telegram live streaming setup
 
 instruction
-10. F.R.FX - Firefox customization
-11. ARCH-INSTALLING - Linux installation guide
-12. GIT - Git workflow guide
+11. F.R.FX - Firefox customization
+12. ARCH-INSTALLING - Linux installation guide
+13. GIT - Git workflow guide
 ```
 
 &nbsp;
@@ -170,6 +171,22 @@ Automation: Auto-Reconnect, Windows Startup, Scheduled Tasks
 Configuration: proxy.pac, ssh-tunnel.bat, simple-tunnel.ps1
 Server: Linux VPS, OpenSSH, UFW Firewall
 Features: Geo-Block Bypass, Selective Routing, CDN Support
+```
+
+&nbsp;
+
+[![TURBO-SNIFFLE](https://img.shields.io/badge/TURBO--SNIFFLE-telegram%20live%20streaming-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/turbo-sniffle)  
+TELEGRAM RBC LIVE STREAMING SETUP WITH FFMPEG AND RTMP PROTOCOL CONFIGURATION
+
+```
+Streaming: FFmpeg, HLS/m3u8 Input, RTMP Output Protocol
+Network: Live Stream Transmission, Telegram RTMP Servers
+Platform: Telegram Desktop Live Streaming API
+Media Processing: Video Transcoding, Bitrate Control, Resolution Scaling
+Configuration: RTMP URL Management, Quality Presets, Hardware Optimization
+Automation: Interactive Control Scripts, Process Management, Auto-Restart
+Tools: stream-control.bat, stream.ps1, Windows Batch/PowerShell
+Features: 24/7 Streaming, Manual Control, PID Tracking, Connection Recovery
 ```
 
 &nbsp;
