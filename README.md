@@ -4,7 +4,7 @@
 bot
 01. FIESTAS-PATRIAS - news aggregation bot
 02. CRISPY-FIESTA - pinterest media downloader bot
-03. BATTLE-OF-HASTINGS-BOT - protected infrastructure with real-time alerts
+03. BATTLE-OF-HASTINGS-BOT - real-time server monitoring bot
 04. UPGRADED-GUACAMOLE - price monitoring bot
 05. SILVER-COUSCOUS - torrent search bot
 
