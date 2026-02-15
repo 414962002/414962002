@@ -2,26 +2,27 @@
 
 ```
 bot
-01. FIESTAS-PATRIAS - news aggregation bot
-02. CRISPY-FIESTA - pinterest media downloader bot
-03. BATTLE-OF-HASTINGS-BOT - real-time server monitoring bot
-04. UPGRADED-GUACAMOLE - price monitoring bot
-05. SILVER-COUSCOUS - torrent search bot
+FIESTAS-PATRIAS - news aggregation bot
+CRISPY-FIESTA - pinterest media downloader bot
+BATTLE-OF-HASTINGS-BOT - real-time server monitoring bot
+UPGRADED-GUACAMOLE - price monitoring bot
+SILVER-COUSCOUS - torrent search bot
 
 bot / archive
-06. DNS-PRES-BOT - data tracking bot
+DNS-PRES-BOT - data tracking bot
+UPGRADED-GUACAMOLE - price monitoring bot
 
 network
-07. BATTLE-OF-HASTINGS - main repo with infrastructure monitoring and security
-08. JUBILANT-POTATO - DNS troubleshooting guide
-09. REDESIGNED-GARBANZO - SSH SOCKS5 proxy tunnel setup
-10. TURBO-SNIFFLE - Telegram live streaming setup
+BATTLE-OF-HASTINGS - main repo with infrastructure monitoring and security
+JUBILANT-POTATO - DNS troubleshooting guide
+REDESIGNED-GARBANZO - SSH SOCKS5 proxy tunnel setup
+TURBO-SNIFFLE - Telegram live streaming setup
 
 instruction
-11. F.R.FX - Firefox customization
-12. SOLID-WINNER - Firefox privacy configuration guide
-13. ARCH-INSTALLING - Linux installation guide
-14. GIT - Git workflow guide
+F.R.FX - Firefox customization
+SOLID-WINNER - Firefox privacy configuration guide
+ARCH-INSTALLING - Linux installation guide
+GIT - Git workflow guide
 ```
 
 &nbsp;
