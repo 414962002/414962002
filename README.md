@@ -229,8 +229,7 @@ Notifications: Real-time Price Change Alerts
 ## instructions
 
 &nbsp;
-
-[![VIGILANT-GIGGLE](https://img.shields.io/badge/VIGILANT-GIGGLE-ide%20configuration-lightblue?logo=perplexity&logoColor=white)](https://github.com/414962002/vigilant-giggle)  
+[![VIGILANT-GIGGLE](https://img.shields.io/badge/VIGILANT--GIGGLE-ide%20configuration-lightblue?logo=perplexity&logoColor=white)](https://github.com/414962002/vigilant-giggle)  
 KIRO IDE SETTINGS INSTALLER WITH SOCKS5 PROXY SUPPORT VIA SSH TUNNEL
 
 ```
@@ -311,7 +310,7 @@ Tools: Bash, SSH-Keygen, SSH-Agent, Clipboard (clip)
 
 ---
 
-XIV • II • MMXXVI -- ULTIMA RENOVATIO
+XX • II • MMXXVI -- ULTIMA RENOVATIO
 
 
 
