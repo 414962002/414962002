@@ -206,7 +206,7 @@ Programming Languages: JavaScript
 Backend: Google Apps Script, Telegram Bot API
 Databases: Google Sheets
 Cloud & DevOps: Google Cloud Platform, Chrome Extensions
-Development Tools: Google Apps Script Editor, Google Apps Script GitHub Assistant, Telegram BotFather
+Development Tools: Google Apps Script Editor, Telegram BotFather
 Learning: Bot Development, Data Visualization, Chart Generation, Callback Query Handling
 ```
 
