@@ -1,31 +1,59 @@
 # REPOSITORIES
 
 ```
-network
+𝘯𝘦𝘵𝘸𝘰𝘳𝘬:
 
-Firefox privacy configuration guide
-SOLID-WINNER
+REMOTE SERVER INFRASTRUCTURE MONITORING AND SECURITY
+𝘣𝘢𝘵𝘵𝘭𝘦-𝘰𝘧-𝘩𝘢𝘴𝘵𝘪𝘯𝘨𝘴
+
+SSH SOCKS5 PROXY TUNNEL SETUP
+𝘳𝘦𝘥𝘦𝘴𝘪𝘨𝘯𝘦𝘥-𝘨𝘢𝘳𝘣𝘢𝘯𝘻𝘰
+
+FIREFOX PRIVACY CONFIGURATION GUIDE
+𝘴𝘰𝘭𝘪𝘥-𝘸𝘪𝘯𝘯𝘦𝘳
+
+DNS TROUBLESHOOTING GUIDE
+𝘫𝘶𝘣𝘪𝘭𝘢𝘯𝘵-𝘱𝘰𝘵𝘢𝘵𝘰
 
 
-BATTLE-OF-HASTINGS - main repo with infrastructure monitoring and security
-JUBILANT-POTATO - DNS troubleshooting guide
-REDESIGNED-GARBANZO - SSH SOCKS5 proxy tunnel setup
-TURBO-SNIFFLE - Telegram live streaming setup
+𝘣𝘰𝘵:
 
-bot
-FIESTAS-PATRIAS - news aggregation bot
-CRISPY-FIESTA - pinterest media downloader bot
-BATTLE-OF-HASTINGS-BOT - real-time server monitoring bot
-SILVER-COUSCOUS - torrent search bot
+NEWS AGGREGATION BOT
+𝘧𝘪𝘦𝘴𝘵𝘢𝘴-𝘱𝘢𝘵𝘳𝘪𝘢𝘴
 
-bot / archive
-DNS-PRES-BOT - data tracking bot
-UPGRADED-GUACAMOLE - price monitoring bot
+PINTEREST MEDIA DOWNLOADED BOT
+𝘤𝘳𝘪𝘴𝘱𝘺-𝘧𝘪𝘦𝘴𝘵𝘢
 
-instruction
-F.R.FX - Firefox customization
-ARCH-INSTALLING - Linux installation guide
-GIT - Git workflow guide
+REAL-TIME SERVER MONITORING BOT
+𝘣𝘢𝘵𝘵𝘭𝘦-𝘰𝘧-𝘩𝘢𝘴𝘵𝘪𝘯𝘨𝘴-𝘣𝘰𝘵
+
+TORRENT SEARCH BOT
+𝘴𝘪𝘭𝘷𝘦𝘳-𝘤𝘰𝘶𝘴𝘤𝘰𝘶𝘴
+
+
+𝘣𝘰𝘵 𝘢𝘳𝘤𝘩𝘪𝘷𝘦:
+
+DATA TRACKING BOT
+𝘥𝘯𝘴-𝘱𝘳𝘦𝘴-𝘣𝘰𝘵
+
+PRICE MONITORING BOT
+𝘶𝘱𝘨𝘳𝘢𝘥𝘦𝘥-𝘨𝘶𝘢𝘤𝘢𝘮𝘰𝘭𝘦
+
+
+𝘪𝘯𝘴𝘵𝘳𝘶𝘤𝘵𝘪𝘰𝘯:
+
+TELEGRAM LIVE STREAMING SETUP
+𝘵𝘶𝘳𝘣𝘰-𝘴𝘯𝘪𝘧𝘧𝘭𝘦
+
+FIREFOX CUSTOMIZATION
+𝘧.𝘳.𝘧𝘹
+
+LINUX INSTALLATION GUIDE
+𝘢𝘳𝘤𝘩-𝘪𝘯𝘴𝘵𝘢𝘭𝘭𝘪𝘯𝘨
+
+GIT WORKFLOW GUIDE
+𝘨𝘪𝘵
+
 ```
 
 &nbsp;
