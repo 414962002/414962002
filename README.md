@@ -43,7 +43,7 @@
 𝘪𝘯𝘴𝘵𝘳𝘶𝘤𝘵𝘪𝘰𝘯:
 
   KIRO IDE SETTINGS INSTALLER
-  𝘬𝘪𝘳𝘰-𝘴𝘦𝘵𝘵𝘪𝘯𝘨𝘴
+  𝘷𝘪𝘨𝘪𝘭𝘢𝘯𝘵-𝘨𝘪𝘨𝘨𝘭𝘦
 
   TELEGRAM LIVE STREAMING SETUP
   𝘵𝘶𝘳𝘣𝘰-𝘴𝘯𝘪𝘧𝘧𝘭𝘦
