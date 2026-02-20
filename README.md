@@ -211,9 +211,7 @@ Learning: Bot Development, Data Visualization, Chart Generation, Callback Query 
 ```
 
 [![UPGRADED-GUACAMOLE](https://img.shields.io/badge/UPGRADED--GUACAMOLE-price%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/upgraded-guacamole)  
-XIAOMI PHONE PRICE MONITORING BOT WITH AUTOMATED TRACKING AND CHANGE ALERTS
-
-&nbsp;
+XIAOMI PHONE PRICE MONITORING BOT WITH AUTOMATED TRACKING AND CHANGE ALERTS  
 
 ```
 Programming Languages: JavaScript
