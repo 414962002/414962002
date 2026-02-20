@@ -66,7 +66,7 @@
 
 &nbsp;
 
-[![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightblue?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
+[![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightblue?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
 PROTECTED INFRASTRUCTURE WITH REAL-TIME ALERTS
 
 ```
@@ -83,7 +83,7 @@ APIs: Telegram Bot API, Google Sheets API, Provider APIs
 
 &nbsp;
 
-[![REDESIGNED-GARBANZO](https://img.shields.io/badge/REDESIGNED--GARBANZO-ssh%20proxy%20tunnel-lightblue?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/redesigned-garbanzo)  
+[![REDESIGNED-GARBANZO](https://img.shields.io/badge/REDESIGNED--GARBANZO-ssh%20proxy%20tunnel-lightblue?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/redesigned-garbanzo)  
 SSH SOCKS5 PROXY TUNNEL FOR FIREFOX WITH AUTO-RECONNECT AND SELECTIVE SITE ROUTING
 
 ```
@@ -99,7 +99,7 @@ Features: Geo-Block Bypass, Selective Routing, CDN Support
 
 &nbsp;
 
-[![SOLID-WINNER](https://img.shields.io/badge/SOLID--WINNER-firefox%20privacy%20guide-lightblue?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/solid-winner)  
+[![SOLID-WINNER](https://img.shields.io/badge/SOLID--WINNER-firefox%20privacy%20guide-lightblue?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/solid-winner)  
 FIREFOX PRIVACY CONFIGURATION WITH CONTAINER ISOLATION AND BUILT-IN SETTINGS
 
 ```
@@ -115,7 +115,7 @@ Features: Stay Logged In, Auto-delete on Exit, Per-site Isolation
 
 &nbsp;
 
-[![JUBILANT-POTATO](https://img.shields.io/badge/JUBILANT--POTATO-dns%20troubleshooting-lightblue?logo=openwrt&logoColor=white)](https://github.com/414962002/JUBILANT-POTATO)  
+[![JUBILANT-POTATO](https://img.shields.io/badge/JUBILANT--POTATO-dns%20troubleshooting-lightblue?logo=openwrt&logoColor=white)](https://github.com/414962002/JUBILANT-POTATO)  
 COMPREHENSIVE DNS TROUBLESHOOTING GUIDE WITH ROUTER CONFIGURATION AND ISP BYPASS SOLUTIONS
 
 ```
@@ -135,7 +135,7 @@ Security: ISP Bypass, Content Filtering Bypass
 
 &nbsp;
 
-[![FIESTAS-PATRIAS](https://img.shields.io/badge/FIESTAS--PATRIAS-news%20aggregation%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/FIESTAS-PATRIAS)  
+[![FIESTAS-PATRIAS](https://img.shields.io/badge/FIESTAS--PATRIAS-news%20aggregation%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/FIESTAS-PATRIAS)  
 MULTI-SOURCE NEWS AGGREGATION BOT WITH RSS/HTML PARSING AND GOOGLE SHEETS BACKUP
 
 ```
@@ -149,7 +149,7 @@ Learning: Web Scraping, HTML/XML Parsing, Telegram Bot Development, Google Sheet
 
 &nbsp;
 
-[![CRISPY-FIESTA](https://img.shields.io/badge/CRISPY--FIESTA-pinterest%20media%20downloader-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/crispy-fiesta)  
+[![CRISPY-FIESTA](https://img.shields.io/badge/CRISPY--FIESTA-pinterest%20media%20downloader-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/crispy-fiesta)  
 PINTEREST MEDIA DOWNLOADER BOT THAT EXTRACTS PHOTOS, VIDEOS AND GIFS FROM PINTEREST LINKS
 
 ```
@@ -163,7 +163,7 @@ Error Handling: Multiple fallback extraction methods
 
 &nbsp;
 
-[![BATTLE-OF-HASTINGS-BOT](https://img.shields.io/badge/BATTLE--OF--HASTINGS--BOT-infrastructure%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
+[![BATTLE-OF-HASTINGS-BOT](https://img.shields.io/badge/BATTLE--OF--HASTINGS--BOT-infrastructure%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
 INFRASTRUCTURE MONITORING BOT WITH REAL-TIME ALERTS AND SECURITY REPORTING
 
 ```
@@ -178,7 +178,7 @@ Security: HMAC-SHA256 Signing, Failed Login Tracking
 
 &nbsp;
 
-[![SILVER-COUSCOUS](https://img.shields.io/badge/SILVER--COUSCOUS-torrent%20search%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/silver-couscous)  
+[![SILVER-COUSCOUS](https://img.shields.io/badge/SILVER--COUSCOUS-torrent%20search%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/silver-couscous)  
 ADVANCED TORRENT SEARCH BOT WITH MODULAR ARCHITECTURE AND ENTERPRISE SECURITY
 
 ```
@@ -198,7 +198,7 @@ Automation: Health Checks, Automated Triggers, Error Recovery
 
 &nbsp;
 
-[![DNS-PRES-BOT](https://img.shields.io/badge/DNS--PRES--BOT-data%20tracking%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/DNS-PRES-BOT)  
+[![DNS-PRES-BOT](https://img.shields.io/badge/DNS--PRES--BOT-data%20tracking%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/DNS-PRES-BOT)  
 GREEN ECONOMY DATA TRACKING BOT WITH CHART VISUALIZATION AND GOOGLE SHEETS INTEGRATION
 
 ```
@@ -210,7 +210,7 @@ Development Tools: Google Apps Script Editor, Google Apps Script GitHub Assistan
 Learning: Bot Development, Data Visualization, Chart Generation, Callback Query Handling
 ```
 
-[![UPGRADED-GUACAMOLE](https://img.shields.io/badge/UPGRADED--GUACAMOLE-price%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/upgraded-guacamole)  
+[![UPGRADED-GUACAMOLE](https://img.shields.io/badge/UPGRADED--GUACAMOLE-price%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/upgraded-guacamole)  
 XIAOMI PHONE PRICE MONITORING BOT WITH AUTOMATED TRACKING AND CHANGE ALERTS
 
 &nbsp;
@@ -232,7 +232,7 @@ Notifications: Real-time Price Change Alerts
 
 &nbsp;
 
-[![KIRO-SETTINGS](https://img.shields.io/badge/KIRO--SETTINGS-ide%20configuration-lightblue?logo=visualstudiocode&logoColor=white)](https://github.com/414962002/kiro-settings)  
+[![KIRO-SETTINGS](https://img.shields.io/badge/KIRO--SETTINGS-ide%20configuration-lightblue?logo=visualstudiocode&logoColor=white)](https://github.com/414962002/kiro-settings)  
 KIRO IDE SETTINGS INSTALLER WITH SOCKS5 PROXY SUPPORT VIA SSH TUNNEL
 
 ```
@@ -249,7 +249,7 @@ Security: Proxy Strict SSL, System Certificates
 
 &nbsp;
 
-[![TURBO-SNIFFLE](https://img.shields.io/badge/TURBO--SNIFFLE-telegram%20live%20streaming-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/turbo-sniffle)  
+[![TURBO-SNIFFLE](https://img.shields.io/badge/TURBO--SNIFFLE-telegram%20live%20streaming-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/turbo-sniffle)  
 TELEGRAM RBC LIVE STREAMING SETUP WITH FFMPEG AND RTMP PROTOCOL CONFIGURATION
 
 ```
@@ -265,7 +265,7 @@ Features: 24/7 Streaming, Manual Control, PID Tracking, Connection Recovery
 
 &nbsp;
 
-[![F.R.FX](https://img.shields.io/badge/F.R.FX-firefox%20customization-lightblue?logo=firefox&logoColor=white)](https://github.com/414962002/firefox)  
+[![F.R.FX](https://img.shields.io/badge/F.R.FX-firefox%20customization-lightblue?logo=firefox&logoColor=white)](https://github.com/414962002/firefox)  
 FIREFOX UI CUSTOMIZATION WITH CSS STYLING AND CONFIGURATION TWEAKS
 
 ```
@@ -280,7 +280,7 @@ Assets: SVG Icons, PNG Backgrounds, GIF Animations
 
 &nbsp;
 
-[![ARCH-INSTALLING](https://img.shields.io/badge/ARCH--INSTALLING-linux%20installation-lightblue?logo=archlinux&logoColor=white)](https://github.com/414962002/ARCH-INSTALLING)  
+[![ARCH-INSTALLING](https://img.shields.io/badge/ARCH--INSTALLING-linux%20installation-lightblue?logo=archlinux&logoColor=white)](https://github.com/414962002/ARCH-INSTALLING)  
 STEP-BY-STEP ARCH LINUX INSTALLATION GUIDE WITH PARTITIONING AND SYSTEM SETUP
 
 ```
@@ -296,7 +296,7 @@ Configuration: hostname, users, wheel group, visudo
 
 &nbsp;
 
-[![GIT](https://img.shields.io/badge/GIT-workflow%20guide-lightblue?logo=git&logoColor=white)](https://github.com/414962002/GIT)  
+[![GIT](https://img.shields.io/badge/GIT-workflow%20guide-lightblue?logo=git&logoColor=white)](https://github.com/414962002/GIT)  
 GIT WORKFLOW GUIDE WITH SSH KEY MANAGEMENT AND MULTI-ACCOUNT CONFIGURATION
 
 ```
