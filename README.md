@@ -232,7 +232,7 @@ Notifications: Real-time Price Change Alerts
 
 &nbsp;
 
-[![KIRO-SETTINGS](https://img.shields.io/badge/KIRO--SETTINGS-ide%20configuration-lightblue?logo=visualstudiocode&logoColor=white)](https://github.com/414962002/kiro-settings)  
+[![VIGILANT-GIGGLE](https://img.shields.io/badge/KIRO--SETTINGS-ide%20configuration-lightblue?logo=visualstudiocode&logoColor=white)](https://github.com/414962002/vigilant-giggle)  
 KIRO IDE SETTINGS INSTALLER WITH SOCKS5 PROXY SUPPORT VIA SSH TUNNEL
 
 ```
