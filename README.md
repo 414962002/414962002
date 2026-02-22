@@ -9,6 +9,9 @@
   SSH SOCKS5 PROXY TUNNEL SETUP
   𝘳𝘦𝘥𝘦𝘴𝘪𝘨𝘯𝘦𝘥-𝘨𝘢𝘳𝘣𝘢𝘯𝘻𝘰
 
+  FIREFOX PROXY EXTENSION
+  𝘧𝘦𝘣𝘳𝘶𝘢𝘳𝘺17𝘵𝘩
+
   FIREFOX PRIVACY CONFIGURATION GUIDE
   𝘴𝘰𝘭𝘪𝘥-𝘸𝘪𝘯𝘯𝘦𝘳
 
@@ -43,7 +46,7 @@
 𝘪𝘯𝘴𝘵𝘳𝘶𝘤𝘵𝘪𝘰𝘯:
 
   KIRO IDE SETTINGS INSTALLER
-  𝘷𝘪𝘨𝘪𝘭𝘢𝘯𝘵-𝘨𝘪𝘨𝘨𝘭𝘦
+  𝘷𝘪𝘨𝘪𝘭𝘢𝘯𝘵-𝘨𝘪𝘨𝘨𝘭𝘦
 
   TELEGRAM LIVE STREAMING SETUP
   𝘵𝘶𝘳𝘣𝘰-𝘴𝘯𝘪𝘧𝘧𝘭𝘦
@@ -95,6 +98,22 @@ Automation: Auto-Reconnect, Windows Startup, Scheduled Tasks
 Configuration: proxy.pac, ssh-tunnel.bat, simple-tunnel.ps1
 Server: Linux VPS, OpenSSH, UFW Firewall
 Features: Geo-Block Bypass, Selective Routing, CDN Support
+```
+
+&nbsp;
+
+[![FEBRUARY17TH](https://img.shields.io/badge/FEBRUARY17TH-firefox%20proxy%20extension-lightblue?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/february17th)  
+FIREFOX EXTENSION FOR DOMAIN-BASED PROXY ROUTING WITH ONE-CLICK MANAGEMENT
+
+```
+Browser: Firefox, WebExtensions API
+Proxy: SOCKS5 (127.0.0.1:1080), Proxy API, Dynamic Routing
+Features: One-click Domain Addition, Freeze/Unfreeze, Subdomain Support
+UI: Popup Interface, Settings Page, Real-time Statistics
+Data Management: Import/Export, Bulk Operations (5000 domains), Search/Filter
+Storage: Browser Local Storage, Real-time Sync
+Security: Zero Telemetry, Local-only, Input Validation, XSS Protection
+Architecture: Manifest V2, Background Script, Content Security Policy
 ```
 
 &nbsp;
@@ -211,7 +230,7 @@ Learning: Bot Development, Data Visualization, Chart Generation, Callback Query 
 ```
 
 [![UPGRADED-GUACAMOLE](https://img.shields.io/badge/UPGRADED--GUACAMOLE-price%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/upgraded-guacamole)  
-XIAOMI PHONE PRICE MONITORING BOT WITH AUTOMATED TRACKING AND CHANGE ALERTS  
+XIAOMI PHONE PRICE MONITORING BOT WITH AUTOMATED TRACKING AND CHANGE ALERTS  
 
 ```
 Programming Languages: JavaScript
@@ -310,6 +329,4 @@ Tools: Bash, SSH-Keygen, SSH-Agent, Clipboard (clip)
 ---
 
 XX • II • MMXXVI -- ULTIMA RENOVATIO
-
-
 
