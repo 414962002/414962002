@@ -1,7 +1,7 @@
 &nbsp;
 
 <p align="right">
-network <sub>ǝɔuɐʇsᴉsǝɹ</sub>
+network
 </p>  
 
 ---  
