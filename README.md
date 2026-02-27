@@ -2,6 +2,7 @@
 
 ```
 𝘯𝘦𝘵𝘸𝘰𝘳𝘬-𝘳𝘦𝘴𝘪𝘴𝘵𝘢𝘯𝘤𝘦:
+
   REMOTE SERVER CREATE
   𝘣𝘢𝘵𝘵𝘭𝘦-𝘰𝘧-𝘩𝘢𝘴𝘵𝘪𝘯𝘨𝘴
 
@@ -25,6 +26,7 @@
 
 
 𝘪𝘯𝘴𝘵𝘳𝘶𝘤𝘵𝘪𝘰𝘯𝘴:
+
   FIREFOX CUSTOMIZATION
   𝘧.𝘳.𝘧𝘹
 
@@ -36,6 +38,7 @@
 
 
 𝘣𝘰𝘵:
+
   NEWS AGGREGATION BOT
   𝘧𝘪𝘦𝘴𝘵𝘢𝘴-𝘱𝘢𝘵𝘳𝘪𝘢𝘴
 
@@ -50,6 +53,7 @@
 
 
 𝘣𝘰𝘵 𝘢𝘳𝘤𝘩𝘪𝘷𝘦:
+
   DATA TRACKING BOT
   𝘥𝘯𝘴-𝘱𝘳𝘦𝘴-𝘣𝘰𝘵
 
