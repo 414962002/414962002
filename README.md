@@ -19,6 +19,24 @@
   𝘫𝘶𝘣𝘪𝘭𝘢𝘯𝘵-𝘱𝘰𝘵𝘢𝘵𝘰
 
 
+𝘪𝘯𝘴𝘵𝘳𝘶𝘤𝘵𝘪𝘰𝘯𝘴:
+
+  KIRO IDE SETTINGS INSTALLER
+  𝘷𝘪𝘨𝘪𝘭𝘢𝘯𝘵-𝘨𝘪𝘨𝘨𝘭𝘦
+
+  TELEGRAM LIVE STREAMING SETUP
+  𝘵𝘶𝘳𝘣𝘰-𝘴𝘯𝘪𝘧𝘧𝘭𝘦
+
+  FIREFOX CUSTOMIZATION
+  𝘧.𝘳.𝘧𝘹
+
+  LINUX INSTALLATION GUIDE
+  𝘢𝘳𝘤𝘩-𝘪𝘯𝘴𝘵𝘢𝘭𝘭𝘪𝘯𝘨
+
+  GIT WORKFLOW GUIDE
+  𝘨𝘪𝘵
+
+
 𝘣𝘰𝘵:
 
   NEWS AGGREGATION BOT
@@ -41,24 +59,6 @@
 
   PRICE MONITORING BOT
   𝘶𝘱𝘨𝘳𝘢𝘥𝘦𝘥-𝘨𝘶𝘢𝘤𝘢𝘮𝘰𝘭𝘦
-
-
-𝘪𝘯𝘴𝘵𝘳𝘶𝘤𝘵𝘪𝘰𝘯:
-
-  KIRO IDE SETTINGS INSTALLER
-  𝘷𝘪𝘨𝘪𝘭𝘢𝘯𝘵-𝘨𝘪𝘨𝘨𝘭𝘦
-
-  TELEGRAM LIVE STREAMING SETUP
-  𝘵𝘶𝘳𝘣𝘰-𝘴𝘯𝘪𝘧𝘧𝘭𝘦
-
-  FIREFOX CUSTOMIZATION
-  𝘧.𝘳.𝘧𝘹
-
-  LINUX INSTALLATION GUIDE
-  𝘢𝘳𝘤𝘩-𝘪𝘯𝘴𝘵𝘢𝘭𝘭𝘪𝘯𝘨
-
-  GIT WORKFLOW GUIDE
-  𝘨𝘪𝘵
 
 ```
 
@@ -149,100 +149,6 @@ Security: ISP Bypass, Content Filtering Bypass
 ```
 
 &nbsp;
-
-## bot
-
-&nbsp;
-
-[![FIESTAS-PATRIAS](https://img.shields.io/badge/FIESTAS--PATRIAS-news%20aggregation%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/FIESTAS-PATRIAS)  
-MULTI-SOURCE NEWS AGGREGATION BOT WITH RSS/HTML PARSING AND GOOGLE SHEETS BACKUP
-
-```
-Programming Languages: JavaScript
-Backend: Google Apps Script, Node.js
-Databases: Google Sheets, Google Apps Script Properties
-Cloud & DevOps: Google Cloud Platform, Google Apps Script
-Development Tools: Google Apps Script Editor, Telegram Bot API, RSS/XML Parsing
-Learning: Web Scraping, HTML/XML Parsing, Telegram Bot Development, Google Sheets API
-```
-
-&nbsp;
-
-[![CRISPY-FIESTA](https://img.shields.io/badge/CRISPY--FIESTA-pinterest%20media%20downloader-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/crispy-fiesta)  
-PINTEREST MEDIA DOWNLOADER BOT THAT EXTRACTS PHOTOS, VIDEOS AND GIFS FROM PINTEREST LINKS
-
-```
-Programming Languages: JavaScript
-Platform: Google Apps Script
-API: Telegram Bot API
-Web Scraping: UrlFetchApp with User-Agent spoofing
-Media Types: Photos, Videos, Animations
-Error Handling: Multiple fallback extraction methods
-```
-
-&nbsp;
-
-[![BATTLE-OF-HASTINGS-BOT](https://img.shields.io/badge/BATTLE--OF--HASTINGS--BOT-infrastructure%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
-INFRASTRUCTURE MONITORING BOT WITH REAL-TIME ALERTS AND SECURITY REPORTING
-
-```
-Programming Languages: JavaScript
-Platform: Google Apps Script
-API: Telegram Bot API, Google Sheets API
-Monitoring: System Metrics, Security Reports, Service Status
-Alerts: Critical Thresholds, Real-time Notifications
-Data Storage: Google Sheets Integration
-Security: HMAC-SHA256 Signing, Failed Login Tracking
-```
-
-&nbsp;
-
-[![SILVER-COUSCOUS](https://img.shields.io/badge/SILVER--COUSCOUS-torrent%20search%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/silver-couscous)  
-ADVANCED TORRENT SEARCH BOT WITH MODULAR ARCHITECTURE AND ENTERPRISE SECURITY
-
-```
-Programming Languages: JavaScript
-Platform: Google Apps Script
-API: Telegram Bot API, Google Sheets API
-Architecture: 12 Modular Files, 67 Functions
-Security: Token Authentication, Rate Limiting, Input Validation
-Features: HTML Parsing, Magnet Links, Quality Monitoring
-Automation: Health Checks, Automated Triggers, Error Recovery
-```
-
-&nbsp;
-&nbsp;
-
-## bot / archive
-
-&nbsp;
-
-[![DNS-PRES-BOT](https://img.shields.io/badge/DNS--PRES--BOT-data%20tracking%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/DNS-PRES-BOT)  
-GREEN ECONOMY DATA TRACKING BOT WITH CHART VISUALIZATION AND GOOGLE SHEETS INTEGRATION
-
-```
-Programming Languages: JavaScript
-Backend: Google Apps Script, Telegram Bot API
-Databases: Google Sheets
-Cloud & DevOps: Google Cloud Platform, Chrome Extensions
-Development Tools: Google Apps Script Editor, Telegram BotFather
-Learning: Bot Development, Data Visualization, Chart Generation, Callback Query Handling
-```
-
-[![UPGRADED-GUACAMOLE](https://img.shields.io/badge/UPGRADED--GUACAMOLE-price%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/upgraded-guacamole)  
-XIAOMI PHONE PRICE MONITORING BOT WITH AUTOMATED TRACKING AND CHANGE ALERTS  
-
-```
-Programming Languages: JavaScript
-Platform: Google Apps Script
-API: Telegram Bot API, Google Sheets API
-Web Scraping: UrlFetchApp, Browser Headers, Anti-Detection
-Monitoring: Price Tracking, Stock Status, Change Detection
-Data Storage: Google Sheets with Color Coding
-Notifications: Real-time Price Change Alerts
-```
-
-&nbsp;
 &nbsp;
 
 ## instructions
@@ -325,7 +231,86 @@ Tools: Bash, SSH-Keygen, SSH-Agent, Clipboard (clip)
 ```
 
 &nbsp;
+## bot
 
+```
+
+&nbsp;
+
+[![CRISPY-FIESTA](https://img.shields.io/badge/CRISPY--FIESTA-pinterest%20media%20downloader-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/crispy-fiesta)  
+PINTEREST MEDIA DOWNLOADER BOT THAT EXTRACTS PHOTOS, VIDEOS AND GIFS FROM PINTEREST LINKS
+
+```
+Programming Languages: JavaScript
+Platform: Google Apps Script
+API: Telegram Bot API
+Web Scraping: UrlFetchApp with User-Agent spoofing
+Media Types: Photos, Videos, Animations
+Error Handling: Multiple fallback extraction methods
+```
+
+&nbsp;
+
+[![BATTLE-OF-HASTINGS-BOT](https://img.shields.io/badge/BATTLE--OF--HASTINGS--BOT-infrastructure%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
+INFRASTRUCTURE MONITORING BOT WITH REAL-TIME ALERTS AND SECURITY REPORTING
+
+```
+Programming Languages: JavaScript
+Platform: Google Apps Script
+API: Telegram Bot API, Google Sheets API
+Monitoring: System Metrics, Security Reports, Service Status
+Alerts: Critical Thresholds, Real-time Notifications
+Data Storage: Google Sheets Integration
+Security: HMAC-SHA256 Signing, Failed Login Tracking
+```
+
+&nbsp;
+
+[![SILVER-COUSCOUS](https://img.shields.io/badge/SILVER--COUSCOUS-torrent%20search%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/silver-couscous)  
+ADVANCED TORRENT SEARCH BOT WITH MODULAR ARCHITECTURE AND ENTERPRISE SECURITY
+
+```
+Programming Languages: JavaScript
+Platform: Google Apps Script
+API: Telegram Bot API, Google Sheets API
+Architecture: 12 Modular Files, 67 Functions
+Security: Token Authentication, Rate Limiting, Input Validation
+Features: HTML Parsing, Magnet Links, Quality Monitoring
+Automation: Health Checks, Automated Triggers, Error Recovery
+```
+
+&nbsp;
+
+## bot / archive
+
+&nbsp;
+
+[![DNS-PRES-BOT](https://img.shields.io/badge/DNS--PRES--BOT-data%20tracking%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/DNS-PRES-BOT)  
+GREEN ECONOMY DATA TRACKING BOT WITH CHART VISUALIZATION AND GOOGLE SHEETS INTEGRATION
+
+```
+Programming Languages: JavaScript
+Backend: Google Apps Script, Telegram Bot API
+Databases: Google Sheets
+Cloud & DevOps: Google Cloud Platform, Chrome Extensions
+Development Tools: Google Apps Script Editor, Telegram BotFather
+Learning: Bot Development, Data Visualization, Chart Generation, Callback Query Handling
+```
+
+[![UPGRADED-GUACAMOLE](https://img.shields.io/badge/UPGRADED--GUACAMOLE-price%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/upgraded-guacamole)  
+XIAOMI PHONE PRICE MONITORING BOT WITH AUTOMATED TRACKING AND CHANGE ALERTS  
+
+```
+Programming Languages: JavaScript
+Platform: Google Apps Script
+API: Telegram Bot API, Google Sheets API
+Web Scraping: UrlFetchApp, Browser Headers, Anti-Detection
+Monitoring: Price Tracking, Stock Status, Change Detection
+Data Storage: Google Sheets with Color Coding
+Notifications: Real-time Price Change Alerts
+```
+
+&nbsp;
 ---
 
 XX • II • MMXXVI -- ULTIMA RENOVATIO
