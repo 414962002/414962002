@@ -1,6 +1,6 @@
 &nbsp;
 
-## 𝘯𝘦𝘵𝘸𝘰𝘳𝘬-𝘳𝘦𝘴𝘪𝘴𝘵𝘢𝘯𝘤𝘦  
+## network resistance  
 &nbsp;
 - [![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightblue?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)    
 𝘱𝘳𝘰𝘵𝘦𝘤𝘵𝘦𝘥 𝘪𝘯𝘧𝘳𝘢𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦 𝘸𝘪𝘵𝘩 𝘳𝘦𝘢𝘭-𝘵𝘪𝘮𝘦 𝘢𝘭𝘦𝘳𝘵𝘴  
@@ -26,7 +26,7 @@
 &nbsp;
 &nbsp;
 
-## 𝘪𝘯𝘴𝘵𝘳𝘶𝘤𝘵𝘪𝘰𝘯𝘴  
+## instructions  
 &nbsp;
 - [![F.R.FX](https://img.shields.io/badge/F.R.FX-firefox%20customization-lightblue?logo=firefox&logoColor=white)](https://github.com/414962002/firefox)  
 𝘧𝘪𝘳𝘦𝘧𝘰𝘹 𝘶𝘪 𝘤𝘶𝘴𝘵𝘰𝘮𝘪𝘻𝘢𝘵𝘪𝘰𝘯 𝘸𝘪𝘵𝘩 𝘤𝘴𝘴 𝘴𝘵𝘺𝘭𝘪𝘯𝘨 𝘢𝘯𝘥 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯 𝘵𝘸𝘦𝘢𝘬𝘴  
@@ -40,7 +40,7 @@
 &nbsp;
 &nbsp;
 
-## 𝘣𝘰𝘵  
+## bot  
 &nbsp;
 - [![CRISPY-FIESTA](https://img.shields.io/badge/CRISPY--FIESTA-pinterest%20media%20downloader-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/crispy-fiesta)  
 𝘱𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵 𝘮𝘦𝘥𝘪𝘢 𝘥𝘰𝘸𝘯𝘭𝘰𝘢𝘥𝘦𝘳 𝘣𝘰𝘵 𝘵𝘩𝘢𝘵 𝘦𝘹𝘵𝘳𝘢𝘤𝘵𝘴 𝘱𝘩𝘰𝘵𝘰𝘴, 𝘷𝘪𝘥𝘦𝘰𝘴 𝘢𝘯𝘥 𝘨𝘪𝘧𝘴 𝘧𝘳𝘰𝘮 𝘱𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵 𝘭𝘪𝘯𝘬𝘴  
@@ -54,7 +54,7 @@
 &nbsp;
 &nbsp;
 
-## 𝘣𝘰𝘵 𝘢𝘳𝘤𝘩𝘪𝘷𝘦  
+## bot archive    
 &nbsp;
 - [![DNS-PRES-BOT](https://img.shields.io/badge/DNS--PRES--BOT-data%20tracking%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/DNS-PRES-BOT)  
 𝘨𝘳𝘦𝘦𝘯 𝘦𝘤𝘰𝘯𝘰𝘮𝘺 𝘥𝘢𝘵𝘢 𝘵𝘳𝘢𝘤𝘬𝘪𝘯𝘨 𝘣𝘰𝘵 𝘸𝘪𝘵𝘩 𝘤𝘩𝘢𝘳𝘵 𝘷𝘪𝘴𝘶𝘢𝘭𝘪𝘻𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘨𝘰𝘰𝘨𝘭𝘦 𝘴𝘩𝘦𝘦𝘵𝘴 𝘪𝘯𝘵𝘦𝘨𝘳𝘢𝘵𝘪𝘰𝘯  
