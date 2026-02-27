@@ -1,8 +1,7 @@
 # REPOSITORIES
 
 ```
-𝘯𝘦𝘵𝘸𝘰𝘳𝘬:
-
+𝘯𝘦𝘵𝘸𝘰𝘳𝘬-𝘳𝘦𝘴𝘪𝘴𝘵𝘢𝘯𝘤𝘦:
   REMOTE SERVER CREATE
   𝘣𝘢𝘵𝘵𝘭𝘦-𝘰𝘧-𝘩𝘢𝘴𝘵𝘪𝘯𝘨𝘴
 
@@ -18,15 +17,14 @@
   DNS TROUBLESHOOTING GUIDE
   𝘫𝘶𝘣𝘪𝘭𝘢𝘯𝘵-𝘱𝘰𝘵𝘢𝘵𝘰
 
-
-𝘪𝘯𝘴𝘵𝘳𝘶𝘤𝘵𝘪𝘰𝘯𝘴:
-
-  KIRO IDE SETTINGS INSTALLER
+  KIRO IDE PROXY-SETTINGS INSTALLER
   𝘷𝘪𝘨𝘪𝘭𝘢𝘯𝘵-𝘨𝘪𝘨𝘨𝘭𝘦
 
   TELEGRAM LIVE STREAMING SETUP
   𝘵𝘶𝘳𝘣𝘰-𝘴𝘯𝘪𝘧𝘧𝘭𝘦
 
+
+𝘪𝘯𝘴𝘵𝘳𝘶𝘤𝘵𝘪𝘰𝘯𝘴:
   FIREFOX CUSTOMIZATION
   𝘧.𝘳.𝘧𝘹
 
@@ -38,7 +36,6 @@
 
 
 𝘣𝘰𝘵:
-
   NEWS AGGREGATION BOT
   𝘧𝘪𝘦𝘴𝘵𝘢𝘴-𝘱𝘢𝘵𝘳𝘪𝘢𝘴
 
@@ -53,7 +50,6 @@
 
 
 𝘣𝘰𝘵 𝘢𝘳𝘤𝘩𝘪𝘷𝘦:
-
   DATA TRACKING BOT
   𝘥𝘯𝘴-𝘱𝘳𝘦𝘴-𝘣𝘰𝘵
 
@@ -149,9 +145,6 @@ Security: ISP Bypass, Content Filtering Bypass
 ```
 
 &nbsp;
-&nbsp;
-
-## instructions
 
 [![VIGILANT-GIGGLE](https://img.shields.io/badge/VIGILANT--GIGGLE-ide%20configuration-lightblue?logo=perplexity&logoColor=white)](https://github.com/414962002/vigilant-giggle)  
 KIRO IDE SETTINGS INSTALLER WITH SOCKS5 PROXY SUPPORT VIA SSH TUNNEL
@@ -185,6 +178,9 @@ Features: 24/7 Streaming, Manual Control, PID Tracking, Connection Recovery
 ```
 
 &nbsp;
+&nbsp;
+
+## instructions
 
 [![F.R.FX](https://img.shields.io/badge/F.R.FX-firefox%20customization-lightblue?logo=firefox&logoColor=white)](https://github.com/414962002/firefox)  
 FIREFOX UI CUSTOMIZATION WITH CSS STYLING AND CONFIGURATION TWEAKS
