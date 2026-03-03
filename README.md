@@ -83,7 +83,7 @@ bot archive
 
 ---  
 <p align="center">
-XX • II • MMXXVI — ULTIMA RENOVATIO 
+III • III • MMXXVI — ULTIMA RENOVATIO 
 </p>  
  
 
