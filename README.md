@@ -51,6 +51,9 @@ instructions
 bot
 </p>  
 
+- [![FIESTAS-PATRIAS](https://img.shields.io/badge/FIESTAS--PATRIAS-aggregates%20news-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/fiestas-patrias)  
+𝘢 𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘣𝘰𝘵 𝘵𝘩𝘢𝘵 𝘢𝘨𝘨𝘳𝘦𝘨𝘢𝘵𝘦𝘴 𝘯𝘦𝘸𝘴 𝘧𝘳𝘰𝘮 6 𝘴𝘰𝘶𝘳𝘤𝘦𝘴 𝘢𝘯𝘥 𝘱𝘳𝘰𝘷𝘪𝘥𝘦𝘴 𝘸𝘦𝘢𝘵𝘩𝘦𝘳 𝘥𝘢𝘵𝘢  
+&nbsp;
 - [![CRISPY-FIESTA](https://img.shields.io/badge/CRISPY--FIESTA-pinterest%20media%20downloader-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/crispy-fiesta)  
 𝘱𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵 𝘮𝘦𝘥𝘪𝘢 𝘥𝘰𝘸𝘯𝘭𝘰𝘢𝘥𝘦𝘳 𝘣𝘰𝘵 𝘵𝘩𝘢𝘵 𝘦𝘹𝘵𝘳𝘢𝘤𝘵𝘴 𝘱𝘩𝘰𝘵𝘰𝘴, 𝘷𝘪𝘥𝘦𝘰𝘴 𝘢𝘯𝘥 𝘨𝘪𝘧𝘴 𝘧𝘳𝘰𝘮 𝘱𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵 𝘭𝘪𝘯𝘬𝘴  
 &nbsp;
