@@ -10,7 +10,7 @@ network
 𝘱𝘳𝘰𝘵𝘦𝘤𝘵𝘦𝘥 𝘪𝘯𝘧𝘳𝘢𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦 𝘸𝘪𝘵𝘩 𝘳𝘦𝘢𝘭-𝘵𝘪𝘮𝘦 𝘢𝘭𝘦𝘳𝘵𝘴  
 &nbsp;
 - [![REDESIGNED-GARBANZO](https://img.shields.io/badge/REDESIGNED--GARBANZO-ssh%20proxy%20tunnel-lightblue?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/redesigned-garbanzo)    
-𝘴𝘴𝘩 𝘴𝘰𝘤𝘬𝘴5 𝘱𝘳𝘰𝘹𝘺 𝘵𝘶𝘯𝘯𝘦𝘭 𝘧𝘰𝘳 𝘧𝘪𝘳𝘦𝘧𝘰𝘹 𝘸𝘪𝘵𝘩 𝘢𝘶𝘵𝘰-𝘳𝘦𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘢𝘯𝘥 𝘴𝘦𝘭𝘦𝘤𝘵𝘪𝘷𝘦 𝘴𝘪𝘵𝘦 𝘳𝘰𝘶𝘵𝘪𝘯𝘨  
+𝘴𝘴𝘩 𝘴𝘰𝘤𝘬𝘴5 𝘱𝘳𝘰𝘹𝘺 𝘵𝘶𝘯𝘯𝘦𝘭 𝘸𝘪𝘵𝘩 𝘢𝘶𝘵𝘰-𝘳𝘦𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘢𝘯𝘥 𝘴𝘦𝘭𝘦𝘤𝘵𝘪𝘷𝘦 𝘴𝘪𝘵𝘦 𝘳𝘰𝘶𝘵𝘪𝘯𝘨  
 &nbsp;
 - [![FEBRUARY17TH](https://img.shields.io/badge/FEBRUARY17TH-firefox%20proxy%20extension-lightblue?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/february17th)    
 𝘧𝘪𝘳𝘦𝘧𝘰𝘹 𝘦𝘹𝘵𝘦𝘯𝘴𝘪𝘰𝘯 𝘧𝘰𝘳 𝘥𝘰𝘮𝘢𝘪𝘯-𝘣𝘢𝘴𝘦𝘥 𝘱𝘳𝘰𝘹𝘺 𝘳𝘰𝘶𝘵𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘰𝘯𝘦-𝘤𝘭𝘪𝘤𝘬 𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵  
@@ -23,24 +23,6 @@ network
 &nbsp;
 - [![TURBO-SNIFFLE](https://img.shields.io/badge/TURBO--SNIFFLE-telegram%20live%20streaming-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/turbo-sniffle)  
 𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘳𝘣𝘤 𝘭𝘪𝘷𝘦 𝘴𝘵𝘳𝘦𝘢𝘮𝘪𝘯𝘨 𝘴𝘦𝘵𝘶𝘱 𝘸𝘪𝘵𝘩 𝘧𝘧𝘮𝘱𝘦𝘨 𝘢𝘯𝘥 𝘳𝘵𝘮𝘱 𝘱𝘳𝘰𝘵𝘰𝘤𝘰𝘭 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯   
-
-&nbsp;
-&nbsp;
-
----  
-
-<p align="right">
-instructions
-</p>  
-
-- [![F.R.FX](https://img.shields.io/badge/F.R.FX-firefox%20customization-lightblue?logo=firefox&logoColor=white)](https://github.com/414962002/firefox)  
-𝘧𝘪𝘳𝘦𝘧𝘰𝘹 𝘶𝘪 𝘤𝘶𝘴𝘵𝘰𝘮𝘪𝘻𝘢𝘵𝘪𝘰𝘯 𝘸𝘪𝘵𝘩 𝘤𝘴𝘴 𝘴𝘵𝘺𝘭𝘪𝘯𝘨 𝘢𝘯𝘥 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯 𝘵𝘸𝘦𝘢𝘬𝘴  
-&nbsp;
-- [![ARCH-INSTALLING](https://img.shields.io/badge/ARCH--INSTALLING-linux%20installation-lightblue?logo=archlinux&logoColor=white)](https://github.com/414962002/ARCH-INSTALLING)  
-𝘴𝘵𝘦𝘱-𝘣𝘺-𝘴𝘵𝘦𝘱 𝘢𝘳𝘤𝘩 𝘭𝘪𝘯𝘶𝘹 𝘪𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯 𝘨𝘶𝘪𝘥𝘦 𝘸𝘪𝘵𝘩 𝘱𝘢𝘳𝘵𝘪𝘵𝘪𝘰𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘴𝘺𝘴𝘵𝘦𝘮 𝘴𝘦𝘵𝘶𝘱  
-&nbsp;
-- [![GIT](https://img.shields.io/badge/GIT-workflow%20guide-lightblue?logo=git&logoColor=white)](https://github.com/414962002/GIT)  
-𝘨𝘪𝘵 𝘸𝘰𝘳𝘬𝘧𝘭𝘰𝘸 𝘨𝘶𝘪𝘥𝘦 𝘸𝘪𝘵𝘩 𝘴𝘴𝘩 𝘬𝘦𝘺 𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘮𝘶𝘭𝘵𝘪-𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯  
 
 &nbsp;
 &nbsp;
@@ -62,6 +44,24 @@ bot
 &nbsp;
 - [![SILVER-COUSCOUS](https://img.shields.io/badge/SILVER--COUSCOUS-torrent%20search%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/silver-couscous)  
 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘵𝘰𝘳𝘳𝘦𝘯𝘵 𝘴𝘦𝘢𝘳𝘤𝘩 𝘣𝘰𝘵 𝘸𝘪𝘵𝘩 𝘮𝘰𝘥𝘶𝘭𝘢𝘳 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦 𝘢𝘯𝘥 𝘦𝘯𝘵𝘦𝘳𝘱𝘳𝘪𝘴𝘦 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺  
+
+&nbsp;
+&nbsp;
+
+---
+
+<p align="right">
+instructions
+</p>  
+
+- [![F.R.FX](https://img.shields.io/badge/F.R.FX-firefox%20customization-lightblue?logo=firefox&logoColor=white)](https://github.com/414962002/firefox)  
+𝘧𝘪𝘳𝘦𝘧𝘰𝘹 𝘶𝘪 𝘤𝘶𝘴𝘵𝘰𝘮𝘪𝘻𝘢𝘵𝘪𝘰𝘯 𝘸𝘪𝘵𝘩 𝘤𝘴𝘴 𝘴𝘵𝘺𝘭𝘪𝘯𝘨 𝘢𝘯𝘥 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯 𝘵𝘸𝘦𝘢𝘬𝘴  
+&nbsp;
+- [![ARCH-INSTALLING](https://img.shields.io/badge/ARCH--INSTALLING-linux%20installation-lightblue?logo=archlinux&logoColor=white)](https://github.com/414962002/ARCH-INSTALLING)  
+𝘴𝘵𝘦𝘱-𝘣𝘺-𝘴𝘵𝘦𝘱 𝘢𝘳𝘤𝘩 𝘭𝘪𝘯𝘶𝘹 𝘪𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯 𝘨𝘶𝘪𝘥𝘦 𝘸𝘪𝘵𝘩 𝘱𝘢𝘳𝘵𝘪𝘵𝘪𝘰𝘯𝘪𝘯𝘨 𝘢𝘯𝘥 𝘴𝘺𝘴𝘵𝘦𝘮 𝘴𝘦𝘵𝘶𝘱  
+&nbsp;
+- [![GIT](https://img.shields.io/badge/GIT-workflow%20guide-lightblue?logo=git&logoColor=white)](https://github.com/414962002/GIT)  
+𝘨𝘪𝘵 𝘸𝘰𝘳𝘬𝘧𝘭𝘰𝘸 𝘨𝘶𝘪𝘥𝘦 𝘸𝘪𝘵𝘩 𝘴𝘴𝘩 𝘬𝘦𝘺 𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵 𝘢𝘯𝘥 𝘮𝘶𝘭𝘵𝘪-𝘢𝘤𝘤𝘰𝘶𝘯𝘵 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯  
 
 &nbsp;
 &nbsp;
