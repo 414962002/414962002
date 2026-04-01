@@ -1,5 +1,5 @@
 &nbsp;
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ---  
 
 <p align="right">
