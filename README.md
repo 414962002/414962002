@@ -21,9 +21,6 @@ network
 - [![JUBILANT-POTATO](https://img.shields.io/badge/JUBILANT--POTATO-dns%20troubleshooting-lightblue?logo=openwrt&logoColor=white)](https://github.com/414962002/JUBILANT-POTATO)  
 𝘤𝘰𝘮𝘱𝘳𝘦𝘩𝘦𝘯𝘴𝘪𝘷𝘦 𝘥𝘯𝘴 𝘵𝘳𝘰𝘶𝘣𝘭𝘦𝘴𝘩𝘰𝘰𝘵𝘪𝘯𝘨 𝘨𝘶𝘪𝘥𝘦 𝘸𝘪𝘵𝘩 𝘳𝘰𝘶𝘵𝘦𝘳 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘪𝘴𝘱 𝘣𝘺𝘱𝘢𝘴𝘴 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴  
 &nbsp;
-- [![VIGILANT-GIGGLE](https://img.shields.io/badge/VIGILANT--GIGGLE-ide%20configuration-lightblue?logo=perplexity&logoColor=white)](https://github.com/414962002/vigilant-giggle)  
-𝘬𝘪𝘳𝘰 𝘪𝘥𝘦 𝘴𝘦𝘵𝘵𝘪𝘯𝘨𝘴 𝘪𝘯𝘴𝘵𝘢𝘭𝘭𝘦𝘳 𝘸𝘪𝘵𝘩 𝘴𝘰𝘤𝘬𝘴5 𝘱𝘳𝘰𝘹𝘺 𝘴𝘶𝘱𝘱𝘰𝘳𝘵 𝘷𝘪𝘢 𝘴𝘴𝘩 𝘵𝘶𝘯𝘯𝘦𝘭  
-&nbsp;
 - [![TURBO-SNIFFLE](https://img.shields.io/badge/TURBO--SNIFFLE-telegram%20live%20streaming-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/turbo-sniffle)  
 𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘳𝘣𝘤 𝘭𝘪𝘷𝘦 𝘴𝘵𝘳𝘦𝘢𝘮𝘪𝘯𝘨 𝘴𝘦𝘵𝘶𝘱 𝘸𝘪𝘵𝘩 𝘧𝘧𝘮𝘱𝘦𝘨 𝘢𝘯𝘥 𝘳𝘵𝘮𝘱 𝘱𝘳𝘰𝘵𝘰𝘤𝘰𝘭 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯   
 
