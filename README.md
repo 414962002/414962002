@@ -4,7 +4,7 @@
 firefox extention
 </p>  
 
-- [![FEBRUARY17TH](https://img.shields.io/badge/FEBRUARY17TH-firefox%20proxy%20extension-lightblue?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/february17th)  
+- [![FEBRUARY17TH](https://img.shields.io/badge/FEBRUARY17TH-firefox%20proxy%20extension-lightcoral?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/february17th)  
 𝘧𝘪𝘳𝘦𝘧𝘰𝘹 𝘦𝘹𝘵𝘦𝘯𝘴𝘪𝘰𝘯 𝘧𝘰𝘳 𝘥𝘰𝘮𝘢𝘪𝘯-𝘣𝘢𝘴𝘦𝘥 𝘱𝘳𝘰𝘹𝘺 𝘳𝘰𝘶𝘵𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘰𝘯𝘦-𝘤𝘭𝘪𝘤𝘬 𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵  
 &nbsp;
 - [![5LATE](https://img.shields.io/badge/5LATE-firefox%20translate%20extension-lightblue?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/5LATE)  
@@ -18,16 +18,16 @@ firefox extention
 network
 </p>  
 
-- [![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightblue?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)    
+- [![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightcoral?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)    
 𝘱𝘳𝘰𝘵𝘦𝘤𝘵𝘦𝘥 𝘪𝘯𝘧𝘳𝘢𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦 𝘸𝘪𝘵𝘩 𝘳𝘦𝘢𝘭-𝘵𝘪𝘮𝘦 𝘢𝘭𝘦𝘳𝘵𝘴  
 &nbsp;
-- [![REDESIGNED-GARBANZO](https://img.shields.io/badge/REDESIGNED--GARBANZO-ssh%20proxy%20tunnel-lightblue?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/redesigned-garbanzo)    
+- [![REDESIGNED-GARBANZO](https://img.shields.io/badge/REDESIGNED--GARBANZO-ssh%20proxy%20tunnel-lightcoral?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/redesigned-garbanzo)    
 𝘴𝘴𝘩 𝘴𝘰𝘤𝘬𝘴5 𝘱𝘳𝘰𝘹𝘺 𝘵𝘶𝘯𝘯𝘦𝘭 𝘸𝘪𝘵𝘩 𝘢𝘶𝘵𝘰-𝘳𝘦𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘢𝘯𝘥 𝘴𝘦𝘭𝘦𝘤𝘵𝘪𝘷𝘦 𝘴𝘪𝘵𝘦 𝘳𝘰𝘶𝘵𝘪𝘯𝘨   
 &nbsp;
-- [![SOLID-WINNER](https://img.shields.io/badge/SOLID--WINNER-firefox%20privacy%20guide-lightblue?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/solid-winner)    
+- [![SOLID-WINNER](https://img.shields.io/badge/SOLID--WINNER-firefox%20privacy%20guide-lightcoral?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/solid-winner)    
 𝘧𝘪𝘳𝘦𝘧𝘰𝘹 𝘱𝘳𝘪𝘷𝘢𝘤𝘺 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯 𝘸𝘪𝘵𝘩 𝘤𝘰𝘯𝘵𝘢𝘪𝘯𝘦𝘳 𝘪𝘴𝘰𝘭𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘣𝘶𝘪𝘭𝘵-𝘪𝘯 𝘴𝘦𝘵𝘵𝘪𝘯𝘨𝘴    
 &nbsp;
-- [![JUBILANT-POTATO](https://img.shields.io/badge/JUBILANT--POTATO-dns%20troubleshooting-lightblue?logo=openwrt&logoColor=white)](https://github.com/414962002/JUBILANT-POTATO)  
+- [![JUBILANT-POTATO](https://img.shields.io/badge/JUBILANT--POTATO-dns%20troubleshooting-lightcoral?logo=openwrt&logoColor=white)](https://github.com/414962002/JUBILANT-POTATO)  
 𝘤𝘰𝘮𝘱𝘳𝘦𝘩𝘦𝘯𝘴𝘪𝘷𝘦 𝘥𝘯𝘴 𝘵𝘳𝘰𝘶𝘣𝘭𝘦𝘴𝘩𝘰𝘰𝘵𝘪𝘯𝘨 𝘨𝘶𝘪𝘥𝘦 𝘸𝘪𝘵𝘩 𝘳𝘰𝘶𝘵𝘦𝘳 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘪𝘴𝘱 𝘣𝘺𝘱𝘢𝘴𝘴 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴  
 &nbsp;
 - [![TURBO-SNIFFLE](https://img.shields.io/badge/TURBO--SNIFFLE-telegram%20live%20streaming-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/turbo-sniffle)  
@@ -47,10 +47,10 @@ bot
 - [![CRISPY-FIESTA](https://img.shields.io/badge/CRISPY--FIESTA-pinterest%20media%20downloader-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/crispy-fiesta)  
 𝘱𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵 𝘮𝘦𝘥𝘪𝘢 𝘥𝘰𝘸𝘯𝘭𝘰𝘢𝘥𝘦𝘳 𝘣𝘰𝘵 𝘵𝘩𝘢𝘵 𝘦𝘹𝘵𝘳𝘢𝘤𝘵𝘴 𝘱𝘩𝘰𝘵𝘰𝘴, 𝘷𝘪𝘥𝘦𝘰𝘴 𝘢𝘯𝘥 𝘨𝘪𝘧𝘴 𝘧𝘳𝘰𝘮 𝘱𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵 𝘭𝘪𝘯𝘬𝘴  
 &nbsp;
-- [![BATTLE-OF-HASTINGS-BOT](https://img.shields.io/badge/BATTLE--OF--HASTINGS--BOT-infrastructure%20monitoring%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
+- [![BATTLE-OF-HASTINGS-BOT](https://img.shields.io/badge/BATTLE--OF--HASTINGS--BOT-infrastructure%20monitoring%20bot-lightcoral?logo=telegram&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
 𝘪𝘯𝘧𝘳𝘢𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦 𝘮𝘰𝘯𝘪𝘵𝘰𝘳𝘪𝘯𝘨 𝘣𝘰𝘵 𝘸𝘪𝘵𝘩 𝘳𝘦𝘢𝘭-𝘵𝘪𝘮𝘦 𝘢𝘭𝘦𝘳𝘵𝘴 𝘢𝘯𝘥 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘳𝘦𝘱𝘰𝘳𝘵𝘪𝘯𝘨  
 &nbsp;
-- [![SILVER-COUSCOUS](https://img.shields.io/badge/SILVER--COUSCOUS-torrent%20search%20bot-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/silver-couscous)  
+- [![SILVER-COUSCOUS](https://img.shields.io/badge/SILVER--COUSCOUS-torrent%20search%20bot-lightcoral?logo=telegram&logoColor=white)](https://github.com/414962002/silver-couscous)  
 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘵𝘰𝘳𝘳𝘦𝘯𝘵 𝘴𝘦𝘢𝘳𝘤𝘩 𝘣𝘰𝘵 𝘸𝘪𝘵𝘩 𝘮𝘰𝘥𝘶𝘭𝘢𝘳 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦 𝘢𝘯𝘥 𝘦𝘯𝘵𝘦𝘳𝘱𝘳𝘪𝘴𝘦 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺  
 
 &nbsp;
