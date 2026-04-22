@@ -15,17 +15,17 @@ firefox extention
 ---  
 
 <p align="right">
-network / server
+server / network
 </p>  
 
-- [![BATTLE-OF-HASTINGS](https://img.shields.io/badge/BATTLE--OF--HASTINGS-infrastructure%20monitoring-lightcoral?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)    
+- [![BATTLE-OF-HASTINGS-SERVER](https://img.shields.io/badge/BATTLE--OF--HASTINGS--SERVER-infrastructure%20monitoring-lightcoral?logo=docker&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS-SERVER)    
 𝘱𝘳𝘰𝘵𝘦𝘤𝘵𝘦𝘥 𝘪𝘯𝘧𝘳𝘢𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦 𝘸𝘪𝘵𝘩 𝘳𝘦𝘢𝘭-𝘵𝘪𝘮𝘦 𝘢𝘭𝘦𝘳𝘵𝘴  
 &nbsp;
-- [![BATTLE-OF-HASTINGS-BOT](https://img.shields.io/badge/BATTLE--OF--HASTINGS--BOT-infrastructure%20monitoring%20bot-lightcoral?logo=telegram&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
-𝘪𝘯𝘧𝘳𝘢𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦 𝘮𝘰𝘯𝘪𝘵𝘰𝘳𝘪𝘯𝘨 𝘣𝘰𝘵 𝘸𝘪𝘵𝘩 𝘳𝘦𝘢𝘭-𝘵𝘪𝘮𝘦 𝘢𝘭𝘦𝘳𝘵𝘴 𝘢𝘯𝘥 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘳𝘦𝘱𝘰𝘳𝘵𝘪𝘯𝘨  
+- [![BATTLE-OF-HASTINGS-PROXY](https://img.shields.io/badge/BATTLE--OF--HASTINGS--PROXY-ssh%20proxy%20tunnel-lightcoral?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS-PROXY)    
+𝘴𝘴𝘩 𝘴𝘰𝘤𝘬𝘴5 𝘱𝘳𝘰𝘹𝘺 𝘵𝘶𝘯𝘯𝘦𝘭 𝘸𝘪𝘵𝘩 𝘢𝘶𝘵𝘰-𝘳𝘦𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘢𝘯𝘥 𝘴𝘦𝘭𝘦𝘤𝘵𝘪𝘷𝘦 𝘴𝘪𝘵𝘦 𝘳𝘰𝘶𝘵𝘪𝘯𝘨  
 &nbsp;
-- [![REDESIGNED-GARBANZO](https://img.shields.io/badge/REDESIGNED--GARBANZO-ssh%20proxy%20tunnel-lightcoral?logo=firefoxbrowser&logoColor=white)](https://github.com/414962002/redesigned-garbanzo)    
-𝘴𝘴𝘩 𝘴𝘰𝘤𝘬𝘴5 𝘱𝘳𝘰𝘹𝘺 𝘵𝘶𝘯𝘯𝘦𝘭 𝘸𝘪𝘵𝘩 𝘢𝘶𝘵𝘰-𝘳𝘦𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘢𝘯𝘥 𝘴𝘦𝘭𝘦𝘤𝘵𝘪𝘷𝘦 𝘴𝘪𝘵𝘦 𝘳𝘰𝘶𝘵𝘪𝘯𝘨
+- [![BATTLE-OF-HASTINGS-BOT](https://img.shields.io/badge/BATTLE--OF--HASTINGS--BOT-infrastructure%20monitoring%20bot-lightcoral?logo=telegram&logoColor=white)](https://github.com/414962002/BATTLE-OF-HASTINGS)  
+𝘪𝘯𝘧𝘳𝘢𝘴𝘵𝘳𝘶𝘤𝘵𝘶𝘳𝘦 𝘮𝘰𝘯𝘪𝘵𝘰𝘳𝘪𝘯𝘨 𝘣𝘰𝘵 𝘸𝘪𝘵𝘩 𝘳𝘦𝘢𝘭-𝘵𝘪𝘮𝘦 𝘢𝘭𝘦𝘳𝘵𝘴 𝘢𝘯𝘥 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘳𝘦𝘱𝘰𝘳𝘵𝘪𝘯𝘨   
 
 &nbsp;
 
