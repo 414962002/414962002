@@ -69,6 +69,18 @@ bot
 &nbsp;
 &nbsp;
 
+---  
+
+<p align="right">
+tmonkey
+</p>  
+
+- [![TMONKEY](https://img.shields.io/badge/TMONKEY-userscripts-lightblue?logo=javascript&logoColor=white)](https://github.com/YOUR_USERNAME/TMONKEY)  
+𝘢 𝘤𝘰𝘭𝘭𝘦𝘤𝘵𝘪𝘰𝘯 𝘰𝘧 𝘛𝘢𝘮𝘱𝘦𝘳𝘮𝘰𝘯𝘬𝘦𝘺 𝘶𝘴𝘦𝘳𝘴𝘤𝘳𝘪𝘱𝘵𝘴
+
+
+&nbsp;
+
 ---
 
 <p align="right">
