@@ -1,4 +1,5 @@
 &nbsp;
+
 ---
 <p align="right">
 firefox extention
@@ -32,6 +33,7 @@ server / network
 &nbsp;
 
 ---  
+
 <p align="right">
 network
 </p>  
@@ -44,7 +46,10 @@ network
 𝘤𝘰𝘮𝘱𝘳𝘦𝘩𝘦𝘯𝘴𝘪𝘷𝘦 𝘥𝘯𝘴 𝘵𝘳𝘰𝘶𝘣𝘭𝘦𝘴𝘩𝘰𝘰𝘵𝘪𝘯𝘨 𝘨𝘶𝘪𝘥𝘦 𝘸𝘪𝘵𝘩 𝘳𝘰𝘶𝘵𝘦𝘳 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯 𝘢𝘯𝘥 𝘪𝘴𝘱 𝘣𝘺𝘱𝘢𝘴𝘴 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯𝘴  
 &nbsp;
 - [![TURBO-SNIFFLE](https://img.shields.io/badge/TURBO--SNIFFLE-telegram%20live%20streaming-lightblue?logo=telegram&logoColor=white)](https://github.com/414962002/turbo-sniffle)  
-𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘳𝘣𝘤 𝘭𝘪𝘷𝘦 𝘴𝘵𝘳𝘦𝘢𝘮𝘪𝘯𝘨 𝘴𝘦𝘵𝘶𝘱 𝘸𝘪𝘵𝘩 𝘧𝘧𝘮𝘱𝘦𝘨 𝘢𝘯𝘥 𝘳𝘵𝘮𝘱 𝘱𝘳𝘰𝘵𝘰𝘤𝘰𝘭 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯   
+𝘵𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘳𝘣𝘤 𝘭𝘪𝘷𝘦 𝘴𝘵𝘳𝘦𝘢𝘮𝘪𝘯𝘨 𝘴𝘦𝘵𝘶𝘱 𝘸𝘪𝘵𝘩 𝘧𝘧𝘮𝘱𝘦𝘨 𝘢𝘯𝘥 𝘳𝘵𝘮𝘱 𝘱𝘳𝘰𝘵𝘰𝘤𝘰𝘭 𝘤𝘰𝘯𝘧𝘪𝘨𝘶𝘳𝘢𝘵𝘪𝘰𝘯  
+&nbsp;
+- [![ANOTHER-STUPID-NAME](https://img.shields.io/badge/ANOTHER--STUPID--NAME-media%20server-lightblue?logo=Ubuntu&logoColor=white)](https://github.com/414962002/ANOTHER-STUPID-NAME)  
+𝘴𝘵𝘦𝘱-𝘣𝘺-𝘴𝘵𝘦𝘱 𝘣𝘶𝘪𝘭𝘥 𝘰𝘧 𝘵𝘩𝘦 𝘩𝘰𝘮𝘦 𝘴𝘦𝘳𝘷𝘦𝘳 𝘧𝘳𝘰𝘮 𝘣𝘢𝘳𝘦 𝘮𝘦𝘵𝘢𝘭 𝘵𝘰 𝘢 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘑𝘦𝘭𝘭𝘺𝘧𝘪𝘯 + 𝘛𝘢𝘪𝘭𝘴𝘤𝘢𝘭𝘦 + 𝘚𝘢𝘮𝘣𝘢 𝘴𝘵𝘢𝘤𝘬 𝘰𝘯 𝘏𝘗260    
 
 &nbsp;
 
