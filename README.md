@@ -121,7 +121,7 @@ bot archive
 
 ---  
 <p align="center">
-IV • IV • MMXXVI — ULTIMA RENOVATIO 
+VI • XXVIII • MMXXVI — ULTIMA RENOVATIO 
 </p>  
  
 
